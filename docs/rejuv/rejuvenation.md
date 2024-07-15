@@ -6,4 +6,4 @@ has_children: true
 permalink: /docs/rejuv
 ---
 
-### 포켓몬 리쥬버네이션 공략
+# 포켓몬 리쥬버네이션 시작시 유용한팁
