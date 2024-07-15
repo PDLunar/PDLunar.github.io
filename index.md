@@ -2,30 +2,28 @@
 title: Reborn(All-gen)
 layout: home
 ---
----
-title: Rejuvenation
-layout: home
----
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# 포켓몬 Reborn (All-Gen) & Rejuvenation 공략
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+포켓몬스터 팬게임 Reborn (All-Gen) 모드와 Rejuvenation 의 공략입니다
 
-More specifically, the created site:
+<a href="/PDLunar.github.io/Reborn_Walkthrough">
+<img alt="리본 공략" src="/img/reborn title.png"/>
+</a>
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+<a href="/PDLunar.github.io/Rejuvenation_Walkthrough">
+<img alt="리쥬버네이션 공략" src="/img/rejuvenation title.png"/>
+</a>
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+<b>다운로드 :</b>
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+<a href="https://www.rebornevo.com/pr/index.html/">
+<img alt="포켓몬 Reborn 다운" src="https://www.rebornevo.com/images/pr/gamelogo.png" width="210" height="120"/>
+</a>
 
-To get started with creating a site, simply:
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
+<a href="https://www.rebornevo.com/rejuvenation/">
+<img alt="Pokemon Rejuvenation 다운" src="https://i.imgur.com/zFBEu9o.png" width="350" height="100"/>
+</a> 
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
