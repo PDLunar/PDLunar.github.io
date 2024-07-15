@@ -8,7 +8,7 @@ permalink: /
 
 포켓몬스터 팬게임 Reborn (All-Gen모드) 과 Rejuvenation 의 공략입니다
 
-<a href="https://pdlunar.github.io/reborn(all-gen).html">
+<a href="(https://pdlunar.github.io/docs/reborn/reborn.html)">
 <img alt="리본 공략" src="/img/reborn title.png"/>
 </a>
 
