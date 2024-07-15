@@ -1,7 +1,7 @@
 ---
 title: All-gen 모드
 layout: all-gen
-parent: reborn
+parent: 리본
 has_children: true
 ---
 
