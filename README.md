@@ -2,11 +2,11 @@
 
 포켓몬스터 팬게임 Reborn (All-Gen 모드) 과 Rejuvenation 의 공략입니다
 
-<a href="(https://pdlunar.github.io/docs/reborn/reborn.html)">
+<a href="https://pdlunar.github.io/docs/reborn/reborn.html">
 <img alt="리본 공략" src="/img/reborn title.png"/>
 </a>
 
-<a href="https://pdlunar.github.io/rejuvenation.html">
+<a href="https://pdlunar.github.io/docs/rejuv">
 <img alt="리쥬버네이션 공략" src="/img/rejuvenation title.png"/>
 </a>
 
