@@ -1,9 +1,8 @@
 ---
-title: All-gen 공략
+title: All-gen 모드
 layout: default
-parent: All-gen 모드
-grand_parent: 리본
-nav_order: 2.3
+parent: 리본
+nav_order: 2.2
 ---
 
 # All-gen 공략
