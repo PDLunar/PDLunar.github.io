@@ -26,9 +26,9 @@ has_children: true
 - 레벨캡 존재 ( 소지한 배지마다 특정 레벨 이상으로 올라가면 말을 듣지 않는 구간이 존재, 해결방법은 **비밀번호** 참고 )
 - 편의를 위한 비밀번호 적용하기
 
-F1 키 로 키설정이 가능
+- F1 키 로 키설정이 가능
 
-※중요키※
+※ 중요키 ※
 - Z 키 - 달리기
 - X 키 - 메뉴
 - C 키 - 액션
@@ -37,7 +37,7 @@ F1 키 로 키설정이 가능
 - D 키 - 퀵세이브
 - ALT 키 - 터보
 
---
+---
 ## 비밀번호
 
 포켓몬 리본에서는 편의를 위한 인게임 비밀번호가 존재
@@ -107,7 +107,7 @@ F1 키 로 키설정이 가능
 
 ---
 ## 모드
-
+<pre>
 리본내의 편의성을 높이는 모드나 컨텐츠를 추가하는 모드 등이 있다
 
 All-gen - https://www.rebornevo.com/forums/topic/62201-allgen-reborn-mod/
@@ -118,12 +118,14 @@ Sandbox - https://www.rebornevo.com/forums/topic/27076-pokemon-reborn-sandbox-mo
 
 SWM modular modpack - https://www.rebornevo.com/forums/topic/24930-swm-modular-modpack-e19/
                     ㄴ 리본내 편의기능을 다양하게 추가한다
+</pre>
 
 ---
 ## 디버그
-
-게임 폴더내 **Scripts/Main.rb** 를 연뒤 맨 윗줄에 **$DEBUG = true** 입력해주면 디버그 가능
-끄고 싶으면 true 를 false 로 바꿔주기만 하면 된다
+<p>
+게임 폴더내 **Scripts/Main.rb** 를 연뒤 맨 윗줄에 **$DEBUG = true** 입력해주면 디버그 가능<p>
+끄고 싶으면 true 를 false 로 바꿔주기만 하면 된다</p>
+</p>
 <img alt="리본 디버그" src="/img/reborn/디버그.png"/>
 
 ---
@@ -133,4 +135,4 @@ SWM modular modpack - https://www.rebornevo.com/forums/topic/24930-swm-modular-m
 
 포켓몬 리본 영문 공략 - https://bigjra.github.io/
 
---
+---
