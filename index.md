@@ -1,6 +1,7 @@
 ---
 title: 소개글
 layout: home
+nav_order: 1
 ---
 # 포켓몬 Reborn (All-Gen) & Rejuvenation 공략
 
