@@ -5,3 +5,4 @@ parent: all-gen 모드
 grand_parent: reborn
 ---
 
+test
