@@ -11,7 +11,7 @@ nav_order: 1
 <img alt="리본 공략" src="/img/reborn title.png"/>
 </a>
 
-<a href="/PDLunar.github.io/Rejuvenation_Walkthrough">
+<a href="https://pdlunar.github.io/rejuvenation.html">
 <img alt="리쥬버네이션 공략" src="/img/rejuvenation title.png"/>
 </a>
 
