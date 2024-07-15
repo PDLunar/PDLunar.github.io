@@ -1,5 +1,5 @@
 ---
-title: 소개글
+title: 0.소개글
 layout: home
 ---
 # 포켓몬 Reborn (All-Gen) & Rejuvenation 공략
