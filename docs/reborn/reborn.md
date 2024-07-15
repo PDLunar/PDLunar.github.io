@@ -71,7 +71,7 @@ has_children: true
 
 | 비밀번호 |  효과  |
 |:-------------|:-------------------------------------------------------------------|
-| mono( ~타입 ) <br> ( etc- normal, fire ... ) | 포켓몬 획득 이벤트에서 특정 타입을 얻게한다 |
+| mono( ~타입 ) <br> ( etc- normal, fire... ) | 포켓몬 획득 이벤트에서 특정 타입을 얻게한다 |
 | stablweather | 날씨가 일정따라 변하게 된다 |
 | norolls | 배틀중 데미지 변화 메커니즘 제거 |
 | pinata | 그랜드홀, 아게이트 서커스, 백화점 팬트하우스에 있는 npc가 경험사탕을 준다 |
@@ -110,29 +110,26 @@ has_children: true
 <pre>
 리본내의 편의성을 높이는 모드나 컨텐츠를 추가하는 모드 등이 있다
 
-All-gen - https://www.rebornevo.com/forums/topic/62201-allgen-reborn-mod/
-        ㄴ 9세대까지 구현 / 다이맥스( 메가진화로 구현 ) / 새로운 메가진화 형태
+<a href="https://www.rebornevo.com/forums/topic/62201-allgen-reborn-mod/">All-gen<a/> - 9세대까지 구현 / 다이맥스( 메가진화로 구현 ) / 새로운 메가진화 형태
 
-Sandbox - https://www.rebornevo.com/forums/topic/27076-pokemon-reborn-sandbox-mode/
-        ㄴ 대부분 디버그를 통해 조작이 가능하지만 PC를 이용해 샌드박스 맵으로 이동해 다양한 기능을 사용할 수 있다
+<a href="https://www.rebornevo.com/forums/topic/27076-pokemon-reborn-sandbox-mode/">Sandbox<a/> - 대부분 디버그를 통해 조작이 가능하지만 PC를 이용해 샌드박스 맵으로 이동해 다양한 기능을 사용할 수 있다
 
-SWM modular modpack - https://www.rebornevo.com/forums/topic/24930-swm-modular-modpack-e19/
-                    ㄴ 리본내 편의기능을 다양하게 추가한다
+<a href="https://www.rebornevo.com/forums/topic/24930-swm-modular-modpack-e19/">SWM modular modpack<a/> - 리본내 편의기능을 다양하게 추가한다
 </pre>
 
 ---
 ## 디버그
-<p>
+
 게임 폴더내 **Scripts/Main.rb** 를 연뒤 맨 윗줄에 **$DEBUG = true** 입력해주면 디버그 가능<p>
 끄고 싶으면 true 를 false 로 바꿔주기만 하면 된다</p>
-</p>
+
 <img alt="리본 디버그" src="/img/reborn/디버그.png"/>
 
 ---
 ## 참고하면 좋은 사이트
 
-포켓몬 리본 영문 위키 - https://pokemon-reborn.fandom.com/wiki/Home
+<a href="https://pokemon-reborn.fandom.com/wiki/Home">포켓몬 리본 영문 위키<a/>
 
-포켓몬 리본 영문 공략 - https://bigjra.github.io/
+<a href="https://bigjra.github.io/">포켓몬 리본 영문 공략<a/>  
 
 ---
