@@ -1,5 +1,5 @@
 ---
-title: 1.리본(All-gen)
+title: 리본(All-gen)
 layout: home
 ---
 
