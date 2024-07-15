@@ -24,7 +24,6 @@ layout: home
 <a href="https://www.rebornevo.com/rejuvenation/">
 <img alt="Pokemon Rejuvenation 다운" src="https://i.imgur.com/zFBEu9o.png" width="350" height="100"/>
 </a> 
-----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
