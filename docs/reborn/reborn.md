@@ -120,8 +120,8 @@ has_children: true
 ---
 ## 디버그
 
-게임 폴더내 **Scripts/Main.rb** 를 연뒤 맨 윗줄에 **$DEBUG = true** 입력해주면 디버그 가능<p>
-끄고 싶으면 true 를 false 로 바꿔주기만 하면 된다</p>
+게임 폴더내 **Scripts/Main.rb** 를 연뒤 맨 윗줄에 **$DEBUG = true** 입력해주면 디버그 가능
+<p>끄고 싶으면 true 를 false 로 바꿔주기만 하면 된다</p>
 
 <img alt="리본 디버그" src="/img/reborn/디버그.png"/>
 
