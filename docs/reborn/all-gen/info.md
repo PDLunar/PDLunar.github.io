@@ -5,4 +5,4 @@ parent: All-gen 모드
 grand_parent: 리본
 ---
 
-test
+# All-gen 공략
