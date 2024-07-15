@@ -7,7 +7,7 @@ nav_order: 1
 
 포켓몬스터 팬게임 Reborn (All-Gen) 모드와 Rejuvenation 의 공략입니다
 
-<a href="/PDLunar.github.io/reborn(all-gen)">
+<a href="/https://pdlunar.github.io/reborn(all-gen).html">
 <img alt="리본 공략" src="/img/reborn title.png"/>
 </a>
 
