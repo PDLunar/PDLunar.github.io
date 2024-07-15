@@ -6,4 +6,4 @@ has_children: true
 permalink: /docs/reborn
 ---
 
-### 포켓몬 리본 공략
+### 포켓몬 리본 시작시 유용한 팁
