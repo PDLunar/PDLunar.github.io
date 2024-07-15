@@ -1,6 +1,6 @@
 ---
 title: 소개글
-layout: home
+layout: default
 nav_order: 1
 permalink: /
 ---
