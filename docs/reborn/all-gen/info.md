@@ -1,6 +1,6 @@
 ---
 title: All-gen 공략
-layout: default
+layout: all-gen
 parent: all-gen 모드
 grand_parent: 리본
 ---
