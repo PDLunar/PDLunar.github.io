@@ -2,6 +2,11 @@ title: Reborn & Rejuv 공략
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: false
+
+
 url: https://just-the-docs.github.io
 
 aux_links:
