@@ -19,7 +19,7 @@ has_children: true
 
 ---
 ## 기본 조작 및 시작 가이드
-<br/>
+<br>
 
 - 7세대까지 구현 ( All-gen 모드 사용 시 9세대 구현 )
 - 다양한 필드 시스템 ( 이에 대한 자세한 설명은 인게임 내 **포켓기어 - 필드노트**를 참고 )
@@ -41,7 +41,7 @@ has_children: true
 
 ---
 ## 비밀번호
-<br/>
+<br>
 포켓몬 리본에서는 편의를 위한 인게임 비밀번호가 존재
 
 게임 시작 시 입력할 수 있으며, 인게임에서 얻을 수 있는 <br>
@@ -109,7 +109,7 @@ has_children: true
 
 ---
 ## 모드
-<br/>
+<br>
 <pre>
 리본 내의 편의성을 높이거나 컨텐츠를 추가하는 모드 등이 있다
 
@@ -122,7 +122,7 @@ has_children: true
 
 ---
 ## 디버그
-<br/>
+<br>
 게임 폴더 내 **Scripts/Main.rb** 를 열고 맨 윗줄에 **$DEBUG = true** 입력하면 디버그 가능
 <p>끄고 싶으면 true 를 false 로 바꿔주기만 하면 된다</p>
 
@@ -130,7 +130,7 @@ has_children: true
 
 ---
 ## 참고하면 좋은 사이트
-<br/>
+<br>
 <a href="https://pokemon-reborn.fandom.com/wiki/Home">포켓몬 리본 영문 위키</a>
 
 <a href="https://bigjra.github.io/">포켓몬 리본 영문 공략</a>
