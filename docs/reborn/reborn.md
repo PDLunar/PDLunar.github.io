@@ -18,7 +18,7 @@ has_children: true
 </details>
 
 ---
-## 기본 조작 및 시작 가이드
+## 기본 조작 및 시작 가이드<br/>
 
 - 7세대 까지 구현 ( All-gen 모드 사용시 9세대 구현 )
 - 다양한 필드 시스템 ( 많은것이 달라지므로 **포켓기어 - 필드노트**를 꼭 읽어보도록 하자 )
@@ -38,7 +38,7 @@ has_children: true
 - ALT 키 - 터보
 
 ---
-## 비밀번호
+## 비밀번호<br/>
 
 포켓몬 리본에서는 편의를 위한 인게임 비밀번호가 존재
 
@@ -106,7 +106,7 @@ has_children: true
 | wtfisafont | 모든 글꼴을 비활성화하여 게임내 텍스트가 나타나지 않도록 한다 |
 
 ---
-## 모드
+## 모드<br/>
 <pre>
 리본내의 편의성을 높이는 모드나 컨텐츠를 추가하는 모드 등이 있다
 
@@ -118,7 +118,7 @@ has_children: true
 </pre>
 
 ---
-## 디버그
+## 디버그<br/>
 
 게임 폴더내 **Scripts/Main.rb** 를 연뒤 맨 윗줄에 **$DEBUG = true** 입력해주면 디버그 가능
 <p>끄고 싶으면 true 를 false 로 바꿔주기만 하면 된다</p>
@@ -126,7 +126,7 @@ has_children: true
 <img alt="리본 디버그" src="/img/reborn/디버그.png"/>
 
 ---
-## 참고하면 좋은 사이트
+## 참고하면 좋은 사이트<br/>
 
 <a href="https://pokemon-reborn.fandom.com/wiki/Home">포켓몬 리본 영문 위키</a>
 
