@@ -46,7 +46,7 @@ nav_order: 2.2
 - YES (줄리아 +1)
 
 ( 적혀 있지 않은 선택지는 관계 포인트에 영향을 미치지 않습니다. )
-<a href="#"  o_nclick="window.open()"><img src="/img/reborn/all-gen/reborn (1-0).png" /></a>
+<a href="#"  onclick="window.open()"><img src="/img/reborn/all-gen/reborn (1-0).png" /></a>
 
 
 ---
