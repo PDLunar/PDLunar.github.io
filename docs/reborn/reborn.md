@@ -25,7 +25,7 @@ has_children: true
 - 다양한 필드 시스템 ( 이에 대한 자세한 설명은 인게임 내 **포켓기어 - 필드노트**를 참고 )
 - 개체값과 노력치가 적용된 실전형 포켓몬 등장
 - 레벨캡 존재 ( 소지한 배지에 따라 특정 레벨 이상으로 올라가면 말을 듣지 않는 구간이 존재 )
-- 비밀번호 시스템
+- 패스워드 시스템
 - 분기별 루트 존재 & 캐릭터들의 관계 포인트에 따른 엔딩씬 차이
 
 - F1 키로 키 설정이 가능
@@ -40,20 +40,20 @@ has_children: true
 - ALT 키 - 터보
 
 ---
-## 비밀번호
+## 패스워드
 <br>
-포켓몬 리본에서는 편의를 위한 인게임 비밀번호가 존재
+포켓몬 리본에서는 편의를 위한 인게임 패스워드가 존재
 
 게임 시작 시 입력할 수 있으며, 인게임에서 얻을 수 있는 <br>
-<img alt="데이터칩" src="/img/reborn/데이터칩.png"/> 데이터칩을 사용해 비밀번호 입력 가능
+<img alt="데이터칩" src="/img/reborn/데이터칩.png"/> 데이터칩을 사용해 패스워드 입력 가능
 
-| 필수 비밀번호 |  효과  |
+| 필수 패스워드 |  효과  |
 |:-------------|:-------------------------------------------------------------------|
 | hardcap      |               레벨 상한을 넘어가는 경험치 획득 비활성화               |
 | easyhms      | 비전머신 및 필드기를 획득 및 조건 달성 시 기술을 배우지 않고도 사용 가능 |
 | freeexpall   |              그랜드홀에 학습장치가 들어 있는 아이템을 미리 생성        |
 
-| 유용한 비밀번호 |  효과  |
+| 유용한 패스워드 |  효과  |
 |:-------------|:-------------------------------------------------------------------|
 | unrealtime  | 포켓기어에서 시간 조정이 가능해진다 |
 | weathermod | 포켓기어에서 날씨 조정이 가능해진다 |
@@ -61,7 +61,7 @@ has_children: true
 | fieldapp | 아이템을 줍지 않고도 필드를 전부 확인할 수 있게 된다 |
 | nopoisondam | 필드 상에서 독에 의한 데미지를 받지 않는다 |
 
-| 세트 |  활성화 되는 비밀번호  |
+| 세트 |  활성화 되는 패스워드  |
 |:-------------|:-------------------------------------------------------------------|
 | goodtaste | noitems, fullivs, hardcap, easyhms, norolls |
 | easymode | fullivs, moneybags, litemode, stopitems |
@@ -71,7 +71,7 @@ has_children: true
 | speedrun | hardcap, monopsychic, easyhms, fullivs, norolls, stablweather, weathermod, freemegaz, earlyincu, pinata, mintyfresh, freeexpall |
 | speedrunnotx | hardcap, monopsychic, easyhms, fullivs, norolls, stablweather, weathermod, freemegaz, earlyincu, wtfisafont, pinata, mintyfresh, freeexpall |
 
-| 비밀번호 |  효과  |
+| 패스워드 |  효과  |
 |:-------------|:-------------------------------------------------------------------|
 | mono( ~타입 ) <br> etc - normal... | 포켓몬 획득 이벤트에서 특정 타입을 얻게 한다 |
 | stablweather | 날씨가 일정에 따라 변하게 된다 |
@@ -89,8 +89,8 @@ has_children: true
 | fullevs | 모든 트레이너 포켓몬의 EV를 252 IV를 31 로 만든다 |
 | stopitems | 트레이너가 배틀 중에 아이템을 사용하지 못한다 |
 | noitems | 플레이어와 트레이너가 배틀 중에 아이템을 사용하지 못한다 |
-| emptyivs | 비밀번호를 활성화한 후 획득하는 포켓몬의 IV가 0 이 된다 |
-| fullivs | 비밀번호를 활성화한 후 획득하는 포켓몬의 IV가 31 이 된다 |
+| emptyivs | 패스워드를 활성화한 후 획득하는 포켓몬의 IV가 0 이 된다 |
+| fullivs | 패스워드를 활성화한 후 획득하는 포켓몬의 IV가 31 이 된다 |
 | noevcap | EV 최대치인 510을 해제하여 모든 EV를 252로 가질 수 있게된다 |
 | stopgains | 전투로 인한 EV획득을 방지한다 |
 | nopenny | 전투에서 얻는 돈의 양을 1/5 줄인다 |
