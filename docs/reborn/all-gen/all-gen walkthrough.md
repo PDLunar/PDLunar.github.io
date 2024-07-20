@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4d9e4374-5358-4652-8da7-022c99a42a9b)---
+---
 title: All-gen 공략
 layout: default
 parent: 리본
