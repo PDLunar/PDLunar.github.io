@@ -260,7 +260,9 @@ all-gen 모드에서만 사용할 수 있는 파트너 이브이/피카츄 패�
 
 <a href="#"  onclick="window.open('/img/reborn/pickup table.png')"><img src="/img/reborn/pickup table.png" /></a>
 
+오팔 구에서 할 일을 마쳤으므로 기차역으로 갑니다.
 
+##페리도트 구 남부
 
 
 
