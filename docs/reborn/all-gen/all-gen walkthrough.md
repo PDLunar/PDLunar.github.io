@@ -50,7 +50,7 @@ all-gen 모드에서만 사용할 수 있는 파트너 이브이/피카츄 패�
 
 ( 적혀 있지 않은 선택지는 관계 포인트에 영향을 미치지 않습니다. )
 
-<a href="#"  onclick="window.open('/img/reborn/all-gen/reborn (1-0).png')"><img src="/img/reborn/all-gen/reborn (1-0).png" /></a>
+<img src ="/img/reborn/all-gen/reborn (1-0).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 ( 사진 크기가 작을 시 이미지를 눌러서 확대 )
 {: .fs-2 }
 
@@ -137,7 +137,7 @@ all-gen 모드에서만 사용할 수 있는 파트너 이브이/피카츄 패�
 
 특정 레벨을 넘어가 트레이너의 명령을 따르지 않는 포켓몬들의 레벨을 낮춥니다.
 
-트레이너 카드에서 확인하실 수 있습니다.
+레벨캡은 트레이너 카드에서 확인하실 수 있습니다.
 
 <img src="/img/reborn/lv cap.png" />
 
@@ -258,13 +258,13 @@ all-gen 모드에서만 사용할 수 있는 파트너 이브이/피카츄 패�
 
 지그제구리의 장점 중 하나는 11레벨에 박치기를 배운다는 것입니다.
 
-<a href="#"  onclick="window.open('/img/reborn/pickup table.png')"><img src="/img/reborn/pickup table.png" /></a>
+<img src ="/img/reborn/pickup table.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 오팔 구에서 할 일을 마쳤으므로 기차역으로 갑니다.
 
 ## **페리도트 구 남부**
 
-<img src ="/img/reborn/pickup table.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+
 
 
 
