@@ -264,7 +264,7 @@ all-gen 모드에서만 사용할 수 있는 파트너 이브이/피카츄 패�
 
 ## **페리도트 구 남부**
 
-
+<img src ="/img/reborn/pickup table.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 
 
