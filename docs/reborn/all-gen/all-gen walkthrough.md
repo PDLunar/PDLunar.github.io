@@ -163,7 +163,6 @@ all-gen 모드에서만 사용할 수 있는 파트너 이브이/피카츄 패�
 
 ## **오팔 구**
 <br>
-
 오른쪽에는 트레이너와 풀숲, 그리고 박치기가 가능한 나무가 있습니다.
 
 **Techie Jonathan / 필드 : 없음**
@@ -260,9 +259,18 @@ all-gen 모드에서만 사용할 수 있는 파트너 이브이/피카츄 패�
 
 <img src ="/img/reborn/pickup table.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
-오팔 구에서 할 일을 마쳤으므로 기차역으로 갑니다.
+오팔 구에서 할 일을 마쳤으므로 기차역으로 갑시다.
 
 ## **페리도트 구 남부**
+<br>
+경찰이 막고 있던 곳은 나중에 가도록 하고, 아래에 있는 트레이너부터 상대합시다.
+
+**Doxy Lundsey / 필드 : 없음**
+- 삐
+- 앗차프
+
+
+
 
 
 
