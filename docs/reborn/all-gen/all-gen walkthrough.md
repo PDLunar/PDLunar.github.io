@@ -338,7 +338,7 @@ all-gen 모드에서만 사용할 수 있는 파트너 이브이/피카츄 패�
 |  **콘치**  | 70 |
 | **형광어** | 30 |
 
-<img src ="/img/reborn/all-gen/reborn (1-1).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/all-gen/reborn (1-2).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 하트비늘, 보라조각
 
