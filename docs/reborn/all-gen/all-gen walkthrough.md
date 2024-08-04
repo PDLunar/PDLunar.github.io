@@ -529,9 +529,8 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 - 모래두지
 - 디그다
 
-<img src ="/img/reborn/all-gen/reborn (1-7).png" style="display:block; float: left; width:40%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/all-gen/reborn (1-7).png" style="display:block; float: left; width:50%;" class="mx-auto" onclick="window.open(this.src)">
 
-<br>
 - 동굴탈출로프, 초록조각
 
 ### **페리도트 북부 골목 등장포켓몬**
