@@ -626,8 +626,8 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 6. 페리도트 남부, 꼴깍몬 있던 쓰레기통 근처
 7. 페리도트 구, 정원
 
-장소 1: 페리도트 남부, 기차역 근처
-<img src="/img/reborn/깜지곰(3).png" style="float: left; width:60%;">
+장소 1: 페리도트 남부, 기차역 근처<br>
+<img src="/img/reborn/깜지곰(3).png" style="float: left; width:50%;">
 <div style="clear: both;"></div> 
 
 장소 2: 오팔 구, 지하 철도망
