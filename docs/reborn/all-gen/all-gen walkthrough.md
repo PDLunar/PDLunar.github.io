@@ -610,10 +610,10 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 - 나몰빼미
 
 미뤄뒀던 **깜지곰** 퀘스트를 진행합시다. 맑은 날 낮에만 진행이 가능합니다.
-
-<img src="/img/reborn/깜지곰(1).png" />
-<img src="/img/reborn/깜지곰(2).png" />
-
+<br>
+<img src="/img/reborn/깜지곰(1).png" style="float: left; width:70%;">
+<img src="/img/reborn/깜지곰(2).png" style="float: left; width:70%;">
+<div style="clear: both;"></div> 
 페리도트 남부와 정원 아래 자리는 고정이고
 
 총 7가지의 자리중 한곳에서 나타납니다.
