@@ -627,25 +627,32 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 7. 페리도트 구, 정원
 
 장소 1: 페리도트 남부, 기차역 근처
-<img src="/img/reborn/깜지곰(3).png" />
+<img src="/img/reborn/깜지곰(3).png" style="float: left; width:50%;">
+<div style="clear: both;"></div> 
 
 장소 2: 오팔 구, 지하 철도망
-<img src="/img/reborn/깜지곰(4).png" />
+<img src="/img/reborn/깜지곰(4).png" style="float: left; width:50%;">
+<div style="clear: both;"></div> 
 
 장소 3: 페리도트 구, 파쪼옥과 턱지충이 있던 건물 근처
-<img src="/img/reborn/깜지곰(5).png" />
+<img src="/img/reborn/깜지곰(5).png" style="float: left; width:50%;">
+<div style="clear: both;"></div> 
 
 장소 4: 페리도트 구, 프렌들리숍 근처
-<img src="/img/reborn/깜지곰(6).png" />
+<img src="/img/reborn/깜지곰(6).png" style="float: left; width:50%;">
+<div style="clear: both;"></div>  />
 
 장소 5: 페리도트 구, 분수 근처
-<img src="/img/reborn/깜지곰(7).png" />
+<img src="/img/reborn/깜지곰(7).png" style="float: left; width:50%;">
+<div style="clear: both;"></div> 
 
 장소 6: 페리도트 남부, 꼴깍몬 있던 쓰레기통 근처
-<img src="/img/reborn/깜지곰(8).png" />
+<img src="/img/reborn/깜지곰(8).png" style="float: left; width:50%;">
+<div style="clear: both;"></div> 
 
 장소 7: 페리도트 구, 정원
-<img src="/img/reborn/깜지곰(9).png" />
+<img src="/img/reborn/깜지곰(9).png" style="float: left; width:50%;">
+<div style="clear: both;"></div> 
 
 
 
