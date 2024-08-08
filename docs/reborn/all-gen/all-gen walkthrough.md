@@ -17,7 +17,8 @@ $(function(){
 });
 </script>
 <a href="#" id="gotop" style="display:none;position:fixed;bottom:20px;right:20px;z-index:999" title="Top">
-<img src="./images/top1.png" border="0"/></a>
+<img src="/img/btn_top.png
+" border="0"/></a>
 <!--탑(TOP)버튼 종료 -->
 </body>
 
