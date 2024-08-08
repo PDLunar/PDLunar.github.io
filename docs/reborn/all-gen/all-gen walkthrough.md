@@ -6,7 +6,7 @@ nav_order: 2.2
 ---
 
 <!-- 탑버튼 시작 -->
-<div id="btn_top" title="위로"><img src='./images/btn_top.png' alt='top' /></div>
+<div id="btn_top" title="위로"><img src='./img/btn_top.png' alt='top' /></div>
 <script>/*<![CDATA[*/$(document).ready(function(){$("#btn_top").hide();$("#btn_top").click(function(){$("html,body").animate({scrollTop:0},800);return false});var c;$(window).scroll(function(e){c=true});setInterval(function(){if(c){a();c=false}},250);var b=0;var d=1;function a(){var e=$(window).scrollTop();if(Math.abs(b-e)<=d){return}if(e>b){$("#btn_top").fadeOut()}else{if(e+$(window).height()<$(document).height()){$("#btn_top").fadeIn()}}b=e}});/*]]>*/</script>
 <!-- 탑버튼 끝 -->
 
