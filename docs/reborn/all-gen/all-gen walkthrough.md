@@ -961,7 +961,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 - 토게데마루
 
 <details>
-   <p>details코드만 적용</p>
+   <p><img src ="/img/reborn/all-gen/reborn (1-0).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)"></p>
 </details>
 
 
