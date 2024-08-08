@@ -7,8 +7,20 @@
     <link rel="stylesheet" href="{{ '/custom.css' | relative_url }}">
 </head>
 <body>
-    <!-- 페이지의 실제 콘텐츠 -->
-    {{ content }}
+    <!-- 헤더 또는 네비게이션 바가 있을 수 있음 -->
+    <header>
+        <!-- 헤더 콘텐츠 -->
+    </header>
+
+    <!-- 페이지의 주요 콘텐츠 -->
+    <main>
+        {{ content }}
+    </main>
+
+    <!-- 페이지의 푸터가 있을 수 있음 -->
+    <footer>
+        <!-- 푸터 콘텐츠 -->
+    </footer>
 
     <!-- 스크롤 버튼 포함 -->
     {% include scroll_button.html %}
