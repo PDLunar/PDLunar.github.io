@@ -6,6 +6,11 @@ theme: just-the-docs
 # Supports true (default) or false
 search_enabled: false
 
+# _config.yml
+theme: just-the-docs
+include:
+  - footer_custom.html
+
 url: https://just-the-docs.github.io
 
 aux_links:
