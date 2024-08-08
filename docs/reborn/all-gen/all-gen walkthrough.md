@@ -5,20 +5,33 @@ parent: 리본
 nav_order: 2.2
 ---
 
-<script>
-$(function(){
-  $("#gotop").hide();
-  $(window).scroll(function(){
-    if($(this).scrollTop() > 500){$("#gotop").fadeIn();}
-    else{$("#gotop").fadeOut();}
-  });
-});
-</script>
-<a href="#" id="gotop" style="display:none;position:fixed;bottom:20px;right:20px;z-index:999" title="Top">
-<img src="/img/btn_top.png
-" border="0"/></a>
-
-
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+  
+  <div id="wrap">
+    <div id="sliderFrame">
+      <h1 class="top">top</h1>
+      <h1 class="point">↓</h1>
+      <h1 class="middle">middle</h1>
+      <h1 class="bottom">bottom</h1>
+      
+    </div>
+    
+    <a id="top_btn" class="">TOP</a>    
+  </div>
+  
+  
+<script src="script.js"></script>
+</body>
+</html>
 
 # All-gen 공략
 {: .no_toc }
