@@ -4,12 +4,7 @@ theme: just-the-docs
 
 # Enable or disable the site search
 # Supports true (default) or false
-search_enabled: true
-search:
-  lang: "en ko"
-  pipeline: 
-    - stopWordFilter
-  tokenizer_separator: "[\s\-]+"
+search_enabled: false
 
 # _config.yml
 theme: just-the-docs
