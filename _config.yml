@@ -6,6 +6,10 @@ theme: just-the-docs
 # Supports true (default) or false
 search_enabled: false
 
+# _config.yml
+include:
+  - _includes/custom.css
+  - _includes/custom.js
 
 url: https://just-the-docs.github.io
 
