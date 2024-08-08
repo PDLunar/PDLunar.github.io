@@ -821,9 +821,11 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 ## **Volt Badge** // 번역본과 통일하기
 
 준비를 마쳤으면 체육관으로 향합니다. 아메가 telecom 통해 어드바이서 역할을 해줍니다. // 번역본과 통일하기
-
+<details>
+  <summary>퍼즐 힌트</summary>
 퍼즐은 간단합니다. 트레이너와 배틀하고 찌리리공을 데려와 문에 말을 걸면 됩니다.
-
+  </p>
+</details>
 **Techie Ivan / 필드 : 공장 필드** // 번역본과 통일하기
 - 찌리리공
 - 에레키드
@@ -960,9 +962,6 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 **Street Rat Franklin / 필드 : 없음** // 번역본과 통일하기
 - 토게데마루
 
-<details>
-   <p><img src ="/img/reborn/all-gen/reborn (1-0).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)"></p>
-</details>
 
 
 
