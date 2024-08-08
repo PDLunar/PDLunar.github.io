@@ -5,9 +5,7 @@ parent: 리본
 nav_order: 2.2
 ---
 
-<body>
-<!--탑(TOP)버튼 시작-->
-<script type="text/javascript">
+<script>
 $(function(){
   $("#gotop").hide();
   $(window).scroll(function(){
@@ -19,8 +17,8 @@ $(function(){
 <a href="#" id="gotop" style="display:none;position:fixed;bottom:20px;right:20px;z-index:999" title="Top">
 <img src="/img/btn_top.png
 " border="0"/></a>
-<!--탑(TOP)버튼 종료 -->
-</body>
+
+
 
 # All-gen 공략
 {: .no_toc }
