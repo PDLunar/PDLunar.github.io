@@ -1273,6 +1273,13 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 **옵시디아 슬럼가 지하1층 B구역**
 
+<details>
+  <summary>옵시디아 슬럼가 지하1층 B구역 전체 지도</summary>
+  <p>
+    <img src ="/img/reborn/all-gen/reborn slum B1F B.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+  </p>
+</details>
+
 <img src ="/img/reborn/all-gen/reborn (1-15).png">
 
 - 오랭열매, 몬스터볼
