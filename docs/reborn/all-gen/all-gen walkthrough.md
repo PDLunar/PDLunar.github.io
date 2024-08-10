@@ -1371,7 +1371,9 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 ## **코랄 구**
 
+<img src ="/img/reborn/all-gen/reborn (1-24).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
+- 
 
 
 
