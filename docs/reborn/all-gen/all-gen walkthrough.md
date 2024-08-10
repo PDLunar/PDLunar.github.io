@@ -1337,9 +1337,9 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 - 해독제
 
-<img src ="/img/reborn/all-gen/reborn (1-19).png">
+<img src ="/img/reborn/all-gen/reborn (1-20).png">
 
-- 버치열매
+- 버치열매, 
 
 
 
