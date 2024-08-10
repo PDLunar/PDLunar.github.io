@@ -1091,7 +1091,14 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 ## **옵시디아 슬럼가**
 
-**옵시디아 슬럼가 1층**
+<details>
+  <summary>옵시디아 슬럼가 1층 A구역 전체 지도</summary>
+  <p>
+    <img src ="/img/reborn/all-gen/reborn slum 1F.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+  </p>
+</details>
+
+**옵시디아 슬럼가 1층 A구역**
 
 <img src ="/img/reborn/all-gen/reborn (1-10).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
@@ -1137,6 +1144,13 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 **옵시디아 슬럼가 지하1층 A구역**
 
+<details>
+  <summary>옵시디아 슬럼가 지하1층 A구역 전체 지도</summary>
+  <p>
+    <img src ="/img/reborn/all-gen/reborn slum B1F.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+  </p>
+</details>
+
 <img src ="/img/reborn/all-gen/reborn (1-11).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 오랭열매, 골드스프레이
@@ -1162,7 +1176,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 위쪽 문으로 들어갑니다.
 
-**옵시디아 슬럼가 1층**
+**옵시디아 슬럼가 1층 B구역**
 
 <img src ="/img/reborn/all-gen/reborn (1-12).png">
 
@@ -1222,12 +1236,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 길을 따라 엘리베이터에 있는 망키와 대화하면 엘리베이터를 이용할 수 있습니다.
 
-<details>
-  <summary>옵시디아 슬럼가 지하1층 A구역 지도</summary>
-  <p>
-    <img src ="/img/reborn/all-gen/reborn (1-11).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
-  </p>
-</details>
+<img src ="/img/reborn/all-gen/reborn (1-14).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 경험사탕S, 노말주얼, 불꽃사탕, 초록조각, 보라조각
 
@@ -1262,7 +1271,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 **옵시디아 슬럼가 지하1층 B구역**
 
-<img src ="/img/reborn/all-gen/reborn (1-14).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/all-gen/reborn (1-15).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 오랭열매, 몬스터볼
 
@@ -1282,29 +1291,19 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 **옵시디아 슬럼가 지하1층 C구역**
 
-<img src ="/img/reborn/all-gen/reborn (1-15).png">
+<img src ="/img/reborn/all-gen/reborn (1-16).png">
 
 - 상처약, 파랑조각
 
 다음 지역으로 갑니다.
 
-<details>
-  <summary>옵시디아 슬럼가 지하1층 B구역 지도</summary>
-  <p>
-    <img src ="/img/reborn/all-gen/reborn (1-14).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
-  </p>
-</details>
+<img src ="/img/reborn/all-gen/reborn (1-17).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 상처약, 경험사탕S
 
 왼쪽 상자에는 상처약이 있고, 아래쪽 돌에는 경험사탕S가 있습니다.
 
-<details>
-  <summary>옵시디아 슬럼가 지하1층 A구역 지도</summary>
-  <p>
-    <img src ="/img/reborn/all-gen/reborn (1-11).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
-  </p>
-</details>
+<img src ="/img/reborn/all-gen/reborn (1-18).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 화상치료제
 
