@@ -1269,6 +1269,17 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 1층으로 올라가 네트볼을 얻고, 길을 막고 있는 남성과 대화하여 길을 열어줍니다.
 
+빅토리아가 있던 자리로 돌아가서, 이전에 얻지 못했던 포켓스낵을 얻어줍니다. 전체 지도의 맨 왼쪽을 확인하세요.
+
+<details>
+  <summary>옵시디아 슬럼가 1층 A구역 전체 지도</summary>
+  <p>
+    <img src ="/img/reborn/all-gen/reborn slum 1F.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+  </p>
+</details>
+
+( 전체 지도의 맨 왼쪽을 확인하세요. )
+
 2층에는 TM60 순서미루기가 있습니다. 지하로 돌아와 중앙의 큰 문으로 들어갑니다.
 
 **옵시디아 슬럼가 지하1층 B구역**
