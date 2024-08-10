@@ -1223,7 +1223,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 길을 따라 엘리베이터에 있는 망키와 대화하면 엘리베이터를 이용할 수 있습니다.
 
 <details>
-  <summary>옵시디아 슬럼가 지하1층 지도</summary>
+  <summary>옵시디아 슬럼가 지하1층 A구역 지도</summary>
   <p>
     <img src ="/img/reborn/all-gen/reborn (1-11).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
   </p>
@@ -1299,11 +1299,16 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 왼쪽 상자에는 상처약이 있고, 아래쪽 돌에는 경험사탕S가 있습니다.
 
+<details>
+  <summary>옵시디아 슬럼가 지하1층 A구역 지도</summary>
+  <p>
+    <img src ="/img/reborn/all-gen/reborn (1-11).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+  </p>
+</details>
 
+- 
 
-
-
-
+에스컬레이터 사이에는 솜사탕이 있습니다.
 
 
 
