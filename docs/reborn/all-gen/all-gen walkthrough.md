@@ -1164,7 +1164,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 **옵시디아 슬럼가 1층**
 
-<img src ="/img/reborn/all-gen/reborn (1-12).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/all-gen/reborn (1-12).png">
 
 - 팝핑캔디, 복분열매
 
@@ -1185,13 +1185,13 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 **Street Rat Brody / 필드 : 없음** // 번역본과 통일하기
 - 냐스퍼
 
-위층으로 올라가세요.
+위층으로 올라갑니다.
 
 **옵시디아 슬럼가 2층**
 
 <img src ="/img/reborn/all-gen/reborn (1-13).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
-- 
+- 경험사탕XS, 상처약, 
 
 ### **옵시디아 슬럼가 2층 등장포켓몬**
 
@@ -1204,23 +1204,13 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 | 판짱 | 12 |
 | 영구스 | 10 |
 
+왼쪽 발판을 건너 아래쪽 문으로 들어갑니다.
 
+코리와 대화가 끝난 후, 아래 항아리에서 경험사탕S를, 위에서 키토산을 얻고 나갑니다.
 
+오른쪽에는 달의돌이 있고 상자에는 경험사탕XS가 있습니다.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+왼쪽 상자에는 상처약이 있고, 처음 위치로 돌아가 맨 아래 돌에서 얼음상태치료제를 찾을 수 있습니다.
 
 **Street Rat Brody / 필드 : 없음** // 번역본과 통일하기
 - 카스쿤
