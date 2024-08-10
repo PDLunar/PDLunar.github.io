@@ -1278,7 +1278,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 - 곤율랭
 - 곤율거니
 
-<img src ="/img/reborn/all-gen/reborn (1-15).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/all-gen/reborn (1-15).png">
 
 - 상처약, 파랑조각
 
