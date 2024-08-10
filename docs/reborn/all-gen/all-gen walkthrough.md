@@ -1325,19 +1325,21 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 왼쪽 상자에는 상처약이 있고, 아래쪽 돌에는 경험사탕S가 있습니다.
 
+**옵시디아 슬럼가 지하1층 A구역**
+
 <img src ="/img/reborn/all-gen/reborn (1-18).png">
 
 - 화상치료제
 
-에스컬레이터 사이에는 솜사탕이 있습니다.
+에스컬레이터 사이에는 솜사탕이 있습니다. 오른쪽으로 계속 이동합니다.
 
+<img src ="/img/reborn/all-gen/reborn (1-19).png">
 
+- 해독제
 
+<img src ="/img/reborn/all-gen/reborn (1-19).png">
 
-
-
-
-
+- 버치열매
 
 
 
