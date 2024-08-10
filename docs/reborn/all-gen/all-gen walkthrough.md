@@ -1147,7 +1147,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 <details>
   <summary>옵시디아 슬럼가 지하1층 A구역 전체 지도</summary>
   <p>
-    <img src ="/img/reborn/all-gen/reborn slum B1F.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+    <img src ="/img/reborn/all-gen/reborn slum B1F A.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
   </p>
 </details>
 
