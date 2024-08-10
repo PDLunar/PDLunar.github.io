@@ -1135,7 +1135,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 오른쪽에 있는 에스컬레이터를 타고 내려가세요.
 
-**옵시디아 슬럼가 지하1층**
+**옵시디아 슬럼가 지하1층 A구역**
 
 <img src ="/img/reborn/all-gen/reborn (1-11).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
@@ -1260,6 +1260,8 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 2층에는 TM60 순서미루기가 있습니다. 지하로 돌아와 중앙의 큰 문으로 들어갑니다.
 
+**옵시디아 슬럼가 지하1층 B구역**
+
 <img src ="/img/reborn/all-gen/reborn (1-14).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 오랭열매, 몬스터볼
@@ -1278,13 +1280,20 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 - 곤율랭
 - 곤율거니
 
+**옵시디아 슬럼가 지하1층 C구역**
+
 <img src ="/img/reborn/all-gen/reborn (1-15).png">
 
 - 상처약, 파랑조각
 
 다음 지역으로 갑니다.
 
-<img src ="/img/reborn/all-gen/reborn (1-16).png">
+<details>
+  <summary>옵시디아 슬럼가 지하1층 B구역 지도</summary>
+  <p>
+    <img src ="/img/reborn/all-gen/reborn (1-14).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+  </p>
+</details>
 
 - 상처약, 경험사탕S
 
