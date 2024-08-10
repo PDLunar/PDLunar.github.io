@@ -1262,17 +1262,25 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 <img src ="/img/reborn/all-gen/reborn (1-14).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
+- 오랭열매, 몬스터볼
+
 **Street Rat Brody / 필드 : 없음** // 번역본과 통일하기
 - 실쿤
 - 도토링
 
+오른쪽 상자에 오랭열매가 있고, 위로 올라가면 있는 휴지통에서 몬스터볼을 찾을 수 있습니다.
 
+다음 방에서는 포켓몬이 습격해 옵니다.
 
+**Pokemon Gang / 필드 : 없음** // 번역본과 통일하기
+- 곤율랭
+- 곤율랭
+- 곤율랭
+- 곤율거니
 
+<img src ="/img/reborn/all-gen/reborn (1-15).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
-
-
-
+- 상처약, 파랑조각
 
 
 
