@@ -1061,7 +1061,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 빅토리아와의 관계 포인트를 쌓고 배틀을 원하시면 오른쪽으로 가세요.
 
-<img src ="/img/reborn/all-gen/reborn (1-9).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/all-gen/reborn (2-1).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 포켓스낵, 포켓스낵, 상처약, 크리티컬커터
 
@@ -1100,7 +1100,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 **옵시디아 슬럼가 1층 A구역**
 
-<img src ="/img/reborn/all-gen/reborn (1-10).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/all-gen/reborn (2-2).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 상처약, 슈퍼볼, 포켓스낵, 빨강조각
 
@@ -1151,7 +1151,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
   </p>
 </details>
 
-<img src ="/img/reborn/all-gen/reborn (1-11).png">
+<img src ="/img/reborn/all-gen/reborn (2-3).png">
 
 - 오랭열매, 골드스프레이
 
@@ -1178,7 +1178,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 **옵시디아 슬럼가 1층 B구역**
 
-<img src ="/img/reborn/all-gen/reborn (1-12).png">
+<img src ="/img/reborn/all-gen/reborn (2-4).png">
 
 - 팝핑캔디, 복분열매
 
@@ -1213,7 +1213,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 **옵시디아 슬럼가 2층**
 
-<img src ="/img/reborn/all-gen/reborn (1-13).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/all-gen/reborn (2-5).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 경험사탕XS, 상처약, 얼음상태치료제
 
@@ -1248,7 +1248,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 **옵시디아 슬럼가 지하1층 A구역**
 
-<img src ="/img/reborn/all-gen/reborn (1-14).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/all-gen/reborn (2-6).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 경험사탕S, 노말주얼, 불꽃사탕, 초록조각, 보라조각
 
@@ -1301,7 +1301,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
   </p>
 </details>
 
-<img src ="/img/reborn/all-gen/reborn (1-15).png">
+<img src ="/img/reborn/all-gen/reborn (2-7).png">
 
 - 오랭열매, 몬스터볼
 
@@ -1321,7 +1321,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 **옵시디아 슬럼가 지하1층 C구역**
 
-<img src ="/img/reborn/all-gen/reborn (1-16).png">
+<img src ="/img/reborn/all-gen/reborn (2-8).png">
 
 - 상처약, 파랑조각
 
@@ -1329,7 +1329,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 **옵시디아 슬럼가 지하1층 B구역**
 
-<img src ="/img/reborn/all-gen/reborn (1-17).png">
+<img src ="/img/reborn/all-gen/reborn (2-9).png">
 
 - 상처약, 경험사탕S
 
@@ -1337,17 +1337,17 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 **옵시디아 슬럼가 지하1층 A구역**
 
-<img src ="/img/reborn/all-gen/reborn (1-18).png">
+<img src ="/img/reborn/all-gen/reborn (2-10).png">
 
 - 화상치료제
 
 에스컬레이터 사이에는 솜사탕이 있습니다. 오른쪽으로 계속 이동합니다.
 
-<img src ="/img/reborn/all-gen/reborn (1-19).png">
+<img src ="/img/reborn/all-gen/reborn (2-11).png">
 
 - 해독제
 
-<img src ="/img/reborn/all-gen/reborn (1-20).png">
+<img src ="/img/reborn/all-gen/reborn (2-12).png">
 
 - 버치열매, 경험사탕S
 
@@ -1357,13 +1357,13 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 **옵시디아 슬럼가 1층 A구역**
 
-<img src ="/img/reborn/all-gen/reborn (1-21).png">
+<img src ="/img/reborn/all-gen/reborn (2-13).png">
 
 - 잠깨는약
 
 아래에 있는 남성과 대화하여 문을 미리 열어둔 뒤 오른쪽으로 이동합니다.
 
-<img src ="/img/reborn/all-gen/reborn (1-22).png">
+<img src ="/img/reborn/all-gen/reborn (2-14).png">
 
 - 경험사탕XS, 해독제
 
@@ -1373,7 +1373,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 이제 밖으로 나옵니다. 
 
-<img src ="/img/reborn/all-gen/reborn (1-23).png">
+<img src ="/img/reborn/all-gen/reborn (2-15).png">
 
 - 벌레회피스프레이
 
@@ -1381,7 +1381,7 @@ NPC를 따라 페리도트 남부 골목으로 들어갑니다.
 
 ## **코랄 구**
 <br>
-<img src ="/img/reborn/all-gen/reborn (1-24).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/all-gen/reborn (2-16).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 상처약, 최고급상처약, 보라조각, 풍선껌, 벌레회피스프레이, 배리열매
 
@@ -1533,7 +1533,7 @@ Central 살롱 아래로 가서 풀베기를 사용해 길을 열고 내려갑�
 
 ## **옵시디아 구**
 <br>
-<img src ="/img/reborn/all-gen/reborn (1-25).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/all-gen/reborn (2-17).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 ### **옵시디아 공원 등장포켓몬**
 
