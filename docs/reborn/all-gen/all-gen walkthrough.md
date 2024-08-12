@@ -1535,6 +1535,8 @@ Central 살롱 아래로 가서 풀베기를 사용해 길을 열고 내려갑�
 <br>
 <img src ="/img/reborn/all-gen/reborn (2-16).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
+- 
+
 ### **옵시디아 공원 등장포켓몬**
 
 | 옵시디아 공원 | 확률 |
