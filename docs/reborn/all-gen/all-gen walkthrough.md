@@ -1533,7 +1533,12 @@ Central 살롱 아래로 가서 풀베기를 사용해 길을 열고 내려갑�
 
 ## **옵시디아 구**
 <br>
-<img src ="/img/reborn/all-gen/reborn (2-16).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<details>
+  <summary>옵시디아 공원 전체 지도</summary>
+  <p>
+    <img src ="/img/reborn/all-gen/옵시디아 공원ㅋ.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+  </p>
+</details>
 
 - 오랭열매, 유루열매, 과사열매, 복슝열매, 좋은상처약, 경험사탕S, 초록조각, 해독제
 
@@ -1550,6 +1555,8 @@ Central 살롱 아래로 가서 풀베기를 사용해 길을 열고 내려갑�
 | **꼬지지** | 6 |
 | **해루미** | 5 |
 
+<img src ="/img/reborn/all-gen/reborn (2-16).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+
 왼쪽 세 번째 덤불에 오랭열매가 있습니다.
 
 **유성단 조무래기 Chad / 필드 : 숲 필드** // 번역본과 통일하기
@@ -1560,17 +1567,25 @@ Central 살롱 아래로 가서 풀베기를 사용해 길을 열고 내려갑�
 
 이상한 나무(A)를 베면 입구 근처를 막고 있던 덩굴이 사라집니다.
 
-그리고 안쪽 나무(B)를 베고 열린 길을 따라 가면, 도로 근처 덤불에서 과사열매를 찾을 수 있습니다.
+<img src ="/img/reborn/all-gen/reborn (2-17).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+
+그리고 안쪽 나무(B)를 베고 열린 길을 따라가면, 도로 근처 덤불에서 과사열매를 찾을 수 있습니다.
 
 세 번째 이상한 나무(C)를 베면 입구 근처에 있던 두 번째 덩굴이 사라집니다.
 
-왼쪽에 있는 이상한 나무(D)를 베고 이상한 나무(A)를 베었던 장소로 돌아갑니다.
+<img src ="/img/reborn/all-gen/reborn (2-18).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
-꽃 근처에 있는 덤불에서 복슝열매를 찾을 수 있습니다.
+입구 근처로 돌아가서 왼쪽에 있는 이상한 나무(D)를 베고, 이상한 나무(A)가 있던 장소로 돌아갑니다.
+
+<img src ="/img/reborn/all-gen/reborn (2-19).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+
+꽃 근처 덤불에서 복슝열매를 찾을 수 있습니다.
 
 오른쪽에 있는 이상한 나무(E)와 이상한 나무(F)를 베어줍니다.
 
 이상한 나무(E)는 지름길을 막고 있던 나무 입니다. 
+
+<img src ="/img/reborn/all-gen/reborn (2-20).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 이상한 나무(F)를 베고 열린 길로 진행합니다.
 
@@ -1578,11 +1593,13 @@ Central 살롱 아래로 가서 풀베기를 사용해 길을 열고 내려갑�
 - 마크탕
 - 꼬지지
 
-조무래기 아래 돌에 좋은상처약이 있습니다. 길을 따라 스토리를 진행합니다.
+조무래기 아래 돌에서 좋은상처약을 얻고, 길을 따라 스토리를 진행합니다.
 
 돌에서 경험사탕S를 주운 뒤, 아래에 있는 이상한 나무(G)를 베어줍니다.
 
-도로 왼쪽 덤불에는 초록조각이 있습니다.
+<img src ="/img/reborn/all-gen/reborn (2-21).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+
+도로 왼쪽 덤불에 초록조각이 있습니다.
 
 **유성단 조무래기 Ama & 유성단 조무래기 Christopher / 필드 : 숲 필드** // 번역본과 통일하기
 - 부우부
@@ -1590,13 +1607,17 @@ Central 살롱 아래로 가서 풀베기를 사용해 길을 열고 내려갑�
 
 왼쪽에 있는 이상한 나무(H)와 이상한 나무(I)를 베어줍니다.
 
-위에 숨겨진 길이 있는데 건물 안에는 Warehouse Key와 TM54 칼등치기가 있고 왼쪽에 스페셜가드가 있습니다.
+<img src ="/img/reborn/all-gen/reborn (2-22).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
-다시 내려와 왼쪽의 마지막 장소로 갑니다. 돌에는 해독제가 있고 위에 Light Shard가 있습니다. // 번역본과 통일하기
+위에 숨겨진 길로 들어가 건물 안에서 Warehouse Key와 TM54 칼등치기를 찾은 후 // 번역본과 통일하기
+
+밖으로 나와 왼쪽으로 가면 스페셜가드가 있습니다. 다시 내려와 왼쪽의 마지막 장소로 갑니다. 
+
+돌에는 해독제가 있고 위에 Light Shard가 있습니다. 마지막 전투를 준비하세요. // 번역본과 통일하기
 
 **유성단 간부 ZEL / 필드 : 숲 필드**
 
-- PULSE 덩쿠림보 C // 번역본과 통일하기
+- 펄스 덩쿠림보 C // 번역본과 통일하기
 
 
 
