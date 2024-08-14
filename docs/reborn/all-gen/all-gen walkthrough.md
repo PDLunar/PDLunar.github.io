@@ -1536,7 +1536,7 @@ Central 살롱 아래로 가서 풀베기를 사용해 길을 열고 내려갑�
 <details>
   <summary>옵시디아 공원 전체 지도</summary>
   <p>
-    <img src ="/img/reborn/all-gen/옵시디아 공원ㅋ.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+    <img src ="/img/reborn/all-gen/옵시디아 공원.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
   </p>
 </details>
 
