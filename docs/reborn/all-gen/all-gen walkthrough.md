@@ -1533,12 +1533,7 @@ Central 살롱 아래로 가서 풀베기를 사용해 길을 열고 내려갑�
 
 ## **옵시디아 구**
 <br>
-<details>
-  <summary>옵시디아 공원 전체 지도</summary>
-  <p>
-    <img src ="/img/reborn/all-gen/옵시디아 공원.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
-  </p>
-</details>
+<img src ="/img/reborn/all-gen/옵시디아 공원.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 오랭열매, 유루열매, 과사열매, 복슝열매, 좋은상처약, 경험사탕S, 초록조각, 해독제
 
