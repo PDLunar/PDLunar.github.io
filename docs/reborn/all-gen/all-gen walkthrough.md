@@ -633,7 +633,7 @@ all-gen 모드에서만 사용할 수 있는 파트너 이브이/피카츄 패�
 - 깜눈크
 - 나몰빼미
 
-미뤄뒀던 **깜지곰** 퀘스트를 진행합시다. 맑은 날 낮에만 진행이 가능합니다.
+미뤄뒀던 **깜지곰** 퀘스트를 진행합니다. 맑은 날 낮에만 진행이 가능합니다.
 <br>
 <img src="/img/reborn/깜지곰(1).png" style="float: left; width:70%;">
 <div style="clear: both;"></div> 
@@ -641,7 +641,7 @@ all-gen 모드에서만 사용할 수 있는 파트너 이브이/피카츄 패�
 <div style="clear: both;"></div> 
 페리도트 남부와 정원 아래 자리는 고정이고
 
-총 7개의 자리 중 한나에서 나타납니다. 자리가 정해지면 번호 순서대로 나타납니다.
+총 7개의 자리 중 하나에서 나타납니다. 자리가 정해지면 번호 순서대로 나타납니다.
 <br>( 예: 3번 자리에 나타났다면 다음에는 4번 자리에 나타납니다. )
 
 1. 페리도트 남부, 기차역 근처
@@ -652,6 +652,9 @@ all-gen 모드에서만 사용할 수 있는 파트너 이브이/피카츄 패�
 6. 페리도트 남부, 꼴깍몬 있던 쓰레기통 근처
 7. 페리도트 구, 정원
 
+<details>
+  <summary>정확한 위치 정보</summary>
+  <p>
 장소 1: 페리도트 남부, 기차역 근처<br>
 <img src="/img/reborn/깜지곰(3).png" style="float: left; width:50%;">
 <div style="clear: both;"></div> 
@@ -679,6 +682,8 @@ all-gen 모드에서만 사용할 수 있는 파트너 이브이/피카츄 패�
 장소 7: 페리도트 구, 정원<br>
 <img src="/img/reborn/깜지곰(9).png" style="float: left; width:50%;">
 <div style="clear: both;"></div> 
+  </p>
+</details>
 
 ## **모스워터 산업공장**
 <br>
@@ -1974,9 +1979,40 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 맑거나 쾌청인 날씨에 나무 뒤에 있는 **피츄**에게 포켓스낵을 주면 잡을 수 있습니다.
 
+**요테리** 퀘스트를 진행합니다. 깜지곰 때와 마찬가지로 무작위 장소에서 발견할 수  있습니다.
+<br>
+총 5개의 자리 중 하나에서 나타납니다.
 
+1. 오팔 구와 지하 철도망 사이
+2. 옵시디아 구, Central 살롱 왼쪽
+3. 페리도트 구, 분수대 근처
+4. 페리도트 구, 포켓스낵 가판대 근처
+5. 코랄 구, 부둣가
 
+<details>
+  <summary>정확한 위치 정보</summary>
+  <p>
+장소 1: 오팔 구와 지하 철도망 사이<br>
+<img src="/img/reborn/요테리(1).png" style="float: left; width:50%;">
+<div style="clear: both;"></div> 
 
+장소 2: 옵시디아 구, Central 살롱 왼쪽<br>
+<img src="/img/reborn/요테리(2).png" style="float: left; width:50%;">
+<div style="clear: both;"></div> 
+
+장소 3: 페리도트 구, 분수대 근처<br>
+<img src="/img/reborn/요테리(3).png" style="float: left; width:50%;">
+<div style="clear: both;"></div> 
+
+장소 4: 페리도트 구, 포켓스낵 가판대 근처<br>
+<img src="/img/reborn/요테리(4).png" style="float: left; width:50%;">
+<div style="clear: both;"></div>
+
+장소 5: 코랄 구, 부둣가<br>
+<img src="/img/reborn/요테리(5).png" style="float: left; width:50%;">
+<div style="clear: both;"></div> 
+  </p>
+</details>
 
 
 
