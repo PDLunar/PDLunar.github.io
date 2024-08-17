@@ -1150,7 +1150,7 @@ all-gen 모드에서만 사용할 수 있는 파트너 이브이/피카츄 패�
 **옵시디아 슬럼가 지하 1층 A구역**
 
 <details>
-  <summary>옵시디아 슬럼가 지하1층 A구역 전체 지도</summary>
+  <summary>옵시디아 슬럼가 지하 1층 A구역 전체 지도</summary>
   <p>
     <img src ="/img/reborn/all-gen/reborn slum B1F A.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
   </p>
@@ -1300,7 +1300,7 @@ all-gen 모드에서만 사용할 수 있는 파트너 이브이/피카츄 패�
 **옵시디아 슬럼가 지하 1층 B구역**
 
 <details>
-  <summary>옵시디아 슬럼가 지하1층 B구역 전체 지도</summary>
+  <summary>옵시디아 슬럼가 지하 1층 B구역 전체 지도</summary>
   <p>
     <img src ="/img/reborn/all-gen/reborn slum B1F B.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
   </p>
