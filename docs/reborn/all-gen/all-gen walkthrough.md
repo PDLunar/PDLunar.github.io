@@ -1984,7 +1984,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 총 5개의 자리 중 하나에서 나타납니다.
 
 1. 오팔 구와 지하 철도망 사이
-2. 옵시디아 구, Central 살롱 왼쪽
+2. 옵시디아 구, Central 살롱 왼쪽 // 번역본과 통일하기
 3. 페리도트 구, 분수대 근처
 4. 페리도트 구, 포켓스낵 가판대 근처
 5. 코랄 구, 부둣가
@@ -1996,7 +1996,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 <img src="/img/reborn/요테리(1).png" style="float: left; width:50%;">
 <div style="clear: both;"></div> 
 
-장소 2: 옵시디아 구, Central 살롱 왼쪽<br>
+장소 2: 옵시디아 구, Central 살롱 왼쪽 // 번역본과 통일하기<br>
 <img src="/img/reborn/요테리(2).png" style="float: left; width:50%;">
 <div style="clear: both;"></div> 
 
