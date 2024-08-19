@@ -2248,6 +2248,8 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 - 독침붕
 - 솔록
 
+<img src ="/img/reborn/all-gen/reborn (3-5).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+
 오른쪽 계단을 내려가기 전, 왼쪽에 비밀통로가 있습니다.
 
 그 안에는 기력의조각, 경험사탕S, 그리고 포켓몬 알이 있습니다.
@@ -2262,7 +2264,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 - 샤비
 - 목도리키텔
 
-<img src ="/img/reborn/all-gen/reborn (3-5).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/all-gen/reborn (3-6).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 아래로 내려가면 숨겨진 보라조각과 펄스 Read-out 05B이 있습니다.
 
@@ -2270,7 +2272,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 헤더에게 말을 걸어 치료를 받은 후, 위에 있는 덩굴을 타고 건물로 진입합니다.
 
-<img src ="/img/reborn/all-gen/reborn (3-6).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/all-gen/reborn (3-7).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 건물 안에는 빨강조각과 경험사탕M이 있습니다. ( 배틀이 끝난 뒤에는 줍지 못합니다. )
 
