@@ -115,7 +115,7 @@ all-gen 모드에서만 사용할 수 있는 파트너 이브이/피카츄 패�
 **관계 포인트**
 - 배틀에서 카인을 이기세요 (카인 +1)
 
-배틀이 종료된 후, 회복을 시켜주고 다음 배틀을 시작합니다.
+배틀이 종료된 후, 치료를 시켜주고 다음 배틀을 시작합니다.
 
 **수련생 빅토리아 / 필드 : 없음**
 
@@ -240,6 +240,8 @@ TV에선 특정 스토리가 진행된 후 여러 가지 소식과 정보를 접
 - 비버니
 
 오면서 지나쳤던 **지그제구리** 또는 **파치리스**를 괴롭히는 트레이너들에게로 갑시다.
+
+**지그제구리**는 가라르의 모습도 나옵니다.
 
 **Youngster Randy / 필드 : 없음** // 번역본과 통일하기
 - 깨봉이
@@ -695,7 +697,7 @@ TV에선 특정 스토리가 진행된 후 여러 가지 소식과 정보를 접
 
 스토리 진행 중에 밖으로 나올 경우 관계 포인트가 감소하니, 준비한 후 진행하시는 것이 좋습니다.
 
-매 배틀 후 팀이 완전히 회복되므로 상처약 등 회복 도구는 따로 구비하실 필요가 없습니다.
+매 배틀 후 팀이 완전히 치료되므로 상처약 등 회복 도구는 따로 구비하실 필요가 없습니다.
 
 정원 위쪽의 모스워터 산업공장이나 페리도트 구 남부에 있는 체육관 중 먼저 선택할 수 있습니다.
 
@@ -1619,12 +1621,12 @@ Central 살롱 아래로 가서 풀베기를 사용해 길을 열고 내려갑�
 
 **유성단 간부 ZEL / 필드 : 숲 필드**
 
-- 펄스 덩쿠림보
+- 펄스덩쿠림보
 
 처음 마주하는 펄스 포켓몬과의 배틀입니다.
 
 <details>
-  <summary>펄스 덩쿠림보 정보</summary>
+  <summary>펄스덩쿠림보 정보</summary>
   <p>
     <img src ="/img/reborn/펄스05C 덩쿠림보.png">
   </p>
@@ -2198,8 +2200,9 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 ## **말커스 삼림공원**
 <br>
-<img src ="/img/reborn/all-gen/reborn (3-2).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
-- 
+<img src ="/img/reborn/all-gen/말커스 삼림공원.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+
+- 스피드업, 만병통치제, 터레인시드, 기력의조각, 경험사탕S, 보라조각, 빨강조각
 
 ### **말커스 삼림공원 등장포켓몬**
 
@@ -2219,50 +2222,73 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 한참 후 퀘스트에 사용되기 때문에 나중에 진화체로 잡는 방법도 있습니다.
 
+<img src ="/img/reborn/all-gen/reborn (3-2).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
+우선 중앙으로 이동해 이상한 나무(A)를 베고, 아래 계단을 올라갑니다.
 
+<img src ="/img/reborn/all-gen/reborn (3-3).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
+왼쪽의 이상한 나무(B)와 오른쪽의 이상한 나무(C)를 베어줍니다.
 
+오른쪽 구역에는 스피드업, 만병통치제, 터레인시드가 있습니다.
 
+헤더가 좋은상처약을 줍니다. 이상한 나무(C)를 베고 열린 중앙 왼쪽 계단으로 갑니다.
 
+<img src ="/img/reborn/all-gen/reborn (3-4).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
+세 개의 계단을 오르면 조무래기가 있습니다.
 
+**유성단 조무래기 Ringo / 필드 : 숲 필드** // 번역본과 통일하기
+- 마디네
+- 루나톤
 
+이상한 나무(D)를 베고 한 계단 내려가서 왼쪽으로 이동합니다.
 
+**유성단 조무래기 Rod / 필드 : 숲 필드** // 번역본과 통일하기
+- 독침붕
+- 솔록
 
+오른쪽 계단을 내려가기 전, 왼쪽에 비밀통로가 있습니다.
 
+그 안에는 기력의조각, 경험사탕S, 그리고 포켓몬 알이 있습니다.
 
+이 알에서는 **키링키, 토중몬, 사철록, 메이클** 중 한 마리가 태어날 수 있습니다.
 
+탐색을 마친 후, 다시 계단으로 돌아옵니다.
 
+**유성단 조무래기 Regina & 유성단 조무래기 Gretchen / 필드 : 숲 필드** // 번역본과 통일하기
+- 달무리나
+- 에나비
+- 샤비
+- 목도리키텔
 
+<img src ="/img/reborn/all-gen/reborn (3-5).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
+아래로 내려가면 숨겨진 보라조각과 펄스 Read-out 05B이 있습니다.
 
+이것은 앞으로 등장할 펄스 포켓몬에 대한 정보를 제공합니다.
 
+헤더에게 말을 걸어 치료를 받은 후, 위에 있는 덩굴을 타고 건물로 진입합니다.
 
+<img src ="/img/reborn/all-gen/reborn (3-6).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
+건물 안에는 빨강조각과 경험사탕M이 있습니다. ( 배틀이 끝난 뒤에는 줍지 못합니다. )
 
+**유성단 간부 타카 / 필드 : 암석 필드** // 번역본과 통일하기
+- 아라리
+- 페라페
+- 펄스덩쿠림보
 
+씨뿌리기와 모래지옥으로 매 턴 데미지를 주며, 개미지옥 특성으로 교체를 막습니다.
 
+배틀 전에 앞서 얻은 펄스 도감의 정보를 확인하면 도움이 됩니다.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<details>
+  <summary>펄스덩쿠림보 정보</summary>
+  <p>
+    <img src ="/img/reborn/펄스05B 덩쿠림보.png">
+  </p>
+</details>
 
 
 
