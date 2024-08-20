@@ -2377,6 +2377,8 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 풀베기로 나무를 베고 몬스터볼을 주운 후, 로도크린 정글로 들어갑니다.
 
+로도크린 정글은 매우 넓습니다. 안에서 해너츠를 교환에 사용하니, 미리 데려가면 좋습니다.
+
 ## **로도크린 정글**
 <br>
 <img src ="/img/reborn/all-gen/로도크린 정글.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
