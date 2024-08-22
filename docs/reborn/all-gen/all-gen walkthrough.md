@@ -2496,7 +2496,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 <img src ="/img/reborn/all-gen/reborn (3-11).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
-나무를 베고 내려온 다음, 왼쪽으로 가면 보이는 계단을 올라갑니다. 스피드업을 주운 후, 위로 올라갑니다.
+나무를 베고 내려간 후, 왼쪽으로 가서 계단을 올라가 스피드업을 얻고, 위로 올라갑니다.
 
 **유성단 조무래기 Coleman / 필드 : 숲 필드** // 번역본과 통일하기
 - 챠오꿀
