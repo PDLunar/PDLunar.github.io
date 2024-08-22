@@ -2521,7 +2521,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 아래로 내려가기 전 오른쪽에 있는 경험사탕S를 줍습니다.
 
-턱을 내려와 오른쪽에 출구로 나갑니다. 
+턱을 내려와 오른쪽 출구로 나갑니다. 
 
 <img src ="/img/reborn/all-gen/reborn (3-13).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
