@@ -2523,7 +2523,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 턱을 내려와 오른쪽에 출구로 나갑니다. 
 
-<img src ="/img/reborn/all-gen/reborn (3-12).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/all-gen/reborn (3-13).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 화살표를 따라 아래로 내려가 오른쪽에 있는 계단을 올라갑니다.
 
@@ -2531,7 +2531,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 이곳에 있는 건물은 쉼터입니다. 안에서 포켓몬을 치료할 수 있습니다.
 
-<img src ="/img/reborn/all-gen/reborn (3-13).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/all-gen/reborn (3-14).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 건물 아래로 내려가 다리를 건넙니다.
 
@@ -2539,7 +2539,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 - 시마사리
 - 암트르
 
-파랑조각을 주운 뒤, 왼쪽 계단 위로 올라가 건물로 들어갑니다.
+파랑조각을 주운 뒤, 왼쪽 계단 위로 올라가 Light Shard가 놓여있는 옆 건물로 들어갑니다. // 번역본과 통일하기
 
 안에 있는 남성이 해너츠와 **흉내내, 트리미앙, 프리지오, 멜리시** 중 한 마리와 교환해줍니다.
 
