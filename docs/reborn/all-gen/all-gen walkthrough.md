@@ -2414,18 +2414,49 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 왼쪽에는 유성단 조무래기들이 보입니다. 여기서 두가지 경로가 있습니다.
 
-1. 아까 보았던 함정을 밟거나 유성단 조무래기들한테 들킬 경우
+<a href="https://pdlunar.github.io/docs/reborn/all-gen/all-gen%20walkthrough.html#1-%ED%95%A8%EC%A0%95%EC%9D%84-%EB%B0%9F%EA%B1%B0%EB%82%98-%EC%A1%B0%EB%AC%B4%EB%9E%98%EA%B8%B0%ED%95%9C%ED%85%8C-%EB%93%A4%ED%82%A8-%EA%B2%BD%EC%9A%B0">1. 아까 보았던 함정을 밟거나 유성단 조무래기들한테 들킬 경우</a>
 
-2. 유성단 조무래기들에게 들키지 않고 길을 빠져나가는 경우
+<a href="https://pdlunar.github.io/docs/reborn/all-gen/all-gen%20walkthrough.html#2-%EB%93%A4%ED%82%A4%EC%A7%80-%EC%95%8A%EA%B3%A0-%EA%B8%B8%EC%9D%84-%EB%B9%A0%EC%A0%B8%EB%82%98%EA%B0%80%EB%8A%94-%EA%B2%BD%EC%9A%B0">2. 유성단 조무래기들에게 들키지 않고 길을 빠져나가는 경우</a>
 
 두 경로를 각각 설명한 후, 특정 지점에서 모인 다음, 이후 진행 방법을 설명하겠습니다.
 
 ### **1. 함정을 밟거나 조무래기한테 들킨 경우**
+<br>
+<img src ="/img/reborn/all-gen/로도크린 정글 A루트.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+
+감옥에 갇힌 경우 이 글을 읽고, 그렇지 않은 경우는 아래 글을 읽으세요.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 ### **2. 들키지 않고 길을 빠져나가는 경우**
-
+<br>
+<img src ="/img/reborn/all-gen/로도크린 정글 B루트.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 
 
