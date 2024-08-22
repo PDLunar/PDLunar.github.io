@@ -2383,7 +2383,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 ## **로도크린 정글**
 <br>
-<img src ="/img/reborn/all-gen/로도크린 정글.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/all-gen/reborn (3-8).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 경험사탕XS
 
@@ -2451,7 +2451,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 레버를 당겨 길을 열어준 후, 오른쪽으로 이동합니다.
 
-<img src ="/img/reborn/all-gen/reborn (3-8).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/all-gen/reborn (3-9).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 트레이너와 눈을 마주치지 않고 표시된 빨간 화살표를 따라가 처음 위치로 돌아갑니다.
 
@@ -2464,7 +2464,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 **관계 포인트**
 - 감옥에 갇히지 않고 페른과 대화 (페른 +1)
 
-
+페른과 대화한 후, 왔던 길로 돌아가 조무래기들이 있던 장소로 갑니다.
 
 
 
