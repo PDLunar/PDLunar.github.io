@@ -50,7 +50,7 @@ all-gen 모드에서만 사용할 수 있는 파트너 이브이/피카츄 패�
 ( 적혀 있지 않은 선택지는 관계 포인트에 영향을 미치지 않습니다. )
 
 <img src ="/img/reborn/all-gen/reborn (1-0).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
-( 사진 크기가 작을 시 이미지를 눌러서 확대 )
+( 사진 크기가 작을 시 이미지를 눌러서 확대, 몇몇 이미지에는 메이플스토리 서체가 적용되어 있습니다. )
 {: .fs-2 }
 
 - 노말주얼, (획득 불가), 몬스터볼, 빨강조각
@@ -2385,7 +2385,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 <br>
 <img src ="/img/reborn/all-gen/reborn (3-8).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
-- 경험사탕XS
+- 경험사탕XS, 복분열매
 
 ### **로도크린 정글 등장포켓몬**
 
@@ -2423,7 +2423,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 이번 경로를 설명할 때는 아이템을 줍지 않고 진행하겠습니다.
 
 ### **1. 함정을 밟거나 조무래기한테 들킨 경우**
-<br>
+
 <img src ="/img/reborn/all-gen/로도크린 정글 A루트.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 감옥에 갇힌 경우 이 글을 읽고, 그렇지 않은 경우는 아래 글을 읽으세요.
@@ -2456,7 +2456,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 트레이너와 눈을 마주치지 않고 표시된 빨간 화살표를 따라가 처음 위치로 돌아갑니다.
 
 ### **2. 들키지 않고 길을 빠져나가는 경우**
-<br>
+
 <img src ="/img/reborn/all-gen/로도크린 정글 B루트.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 빨간 화살표를 따라 길을 올라가면 페른이 있습니다.
@@ -2466,11 +2466,11 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 페른과 대화한 후, 왔던 길로 돌아가 조무래기들이 있던 장소로 갑니다.
 
+### **로도크린 정글 탐사**
 
+<img src ="/img/reborn/all-gen/reborn (3-10).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
-
-
-
+모닥불에 있던 조무래기들이 사라져 있습니다. 
 
 
 
