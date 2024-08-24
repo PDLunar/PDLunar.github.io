@@ -2599,9 +2599,9 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 끝까지 가면 빨간조각과 경험사탕S를 주울 수 있으며, **테일로**를 잡을 수 있습니다.
 
-<img src ="/img/reborn/all-gen/reborn (3-17).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+다시 동굴로 돌아와 위에 있는 이상한 나무를 베고 계단을 내려간 후, 왼쪽 출구로 나갑니다.
 
-다시 동굴로 돌아와 이상한 나무를 베고 계단을 내려간 후, 왼쪽 출구로 나갑니다.
+<img src ="/img/reborn/all-gen/reborn (3-17).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 왼쪽으로 올라가면 PP에이드를 주울 수 있고, **노라키**를 잡을 수 있습니다.
 
@@ -2621,11 +2621,13 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 위에는 경험사탕S가 있으며, 포켓스낵을 지니고 있으면 **세비퍼**를 잡을 수 있습니다.
 
-오른쪽 위로 올라가는 도중 돌에서 힘의뿌리를 줍고, 꼭대기에는 경찰관 #4과 빨간조각이 있습니다.
-
 <img src ="/img/reborn/all-gen/reborn (3-19).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
+위로 올라가는 도중 돌에서 힘의뿌리를 줍고, 꼭대기에는 경찰관 #4과 빨간조각이 있습니다.
+
 오른쪽 폭포를 지나갈 수 있습니다. 위쪽은 정글을 빠져 나올 수 있는 출구로 이어집니다.
+
+<img src ="/img/reborn/all-gen/reborn (3-20).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 오른쪽에는 크리티컬커터와 몬스터볼이 있습니다. 계단이 있는 장소로 돌아와 끝까지 내려갑니다.
 
@@ -2637,7 +2639,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 끝에는 얼음상태치료제가 있고 베릴 구로 이어지는 출구가 있습니다.
 
-<img src ="/img/reborn/all-gen/reborn (3-20).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+
 
 
 
