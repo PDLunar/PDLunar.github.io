@@ -2591,13 +2591,15 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 | **미꾸리** | 70 |
 | **초라기** | 30 |
 
+<img src ="/img/reborn/all-gen/reborn (3-16).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+
 떨어진 장소 바로 오른쪽에 경험사탕S가 있습니다.
 
 아래에 보이는 돌은 지금 아무것도 할 수 없습니다.
 
 오른쪽에 있는 출구를 통해서 밖으로 나갑니다.
 
-<img src ="/img/reborn/all-gen/reborn (3-16).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+
 
 
 
