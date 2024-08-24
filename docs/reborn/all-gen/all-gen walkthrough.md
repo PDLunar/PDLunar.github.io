@@ -2569,7 +2569,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 <br>
 <img src ="/img/reborn/all-gen/뿌리밑동굴.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
-- 경험사탕S, 
+- 경험사탕S, 보라조각, 경험사탕S, 힘의뿌리, 빨간조각, 크리티컬커터, 몬스터볼, 상처약, 파랑조각, 힘의가루, 헤비볼, 오랭열매, 얼음상태치료제
 
 ### **뿌리밑동굴 등장포켓몬**
 
@@ -2615,21 +2615,29 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 건물 안에 있는 여성은 풀 타입 스타팅을 골랐을 경우, 기가드레인을 배울 수 있습니다.
 
+<img src ="/img/reborn/all-gen/reborn (3-18).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
+동굴로 돌아와 위로 올라갑니다. 보라조각을 줍고 왼쪽 위로 이동합니다.
 
+위에는 경험사탕S가 있으며, 포켓스낵을 지니고 있으면 **세비퍼**를 잡을 수 있습니다.
 
+오른쪽 위로 올라가는 도중 돌에서 힘의뿌리를 줍고, 꼭대기에는 경찰관 #4과 빨간조각이 있습니다.
 
+<img src ="/img/reborn/all-gen/reborn (3-19).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
+오른쪽 폭포를 지나갈 수 있습니다. 위쪽은 정글을 빠져 나올 수 있는 출구로 이어집니다.
 
+오른쪽에는 크리티컬커터와 몬스터볼이 있습니다. 계단이 있는 장소로 돌아와 끝까지 내려갑니다.
 
+상처약, 파랑조각, 힘의가루, 헤비볼, 그리고 끝에는 Light Shard 와 엘리멘탈시드가 있습니다.
 
+다시 올라와 색이 변하는 지점에서 오른쪽으로 가면, 오랭열매와 고급상처약이 있습니다.
 
+올라오다 보면 갈림길이 나오는데, 왼쪽으로 가지 않고 오른쪽으로 이동합니다.
 
+끝에는 얼음상태치료제가 있고 베릴 구로 이어지는 출구가 있습니다.
 
-
-
-
-
+<img src ="/img/reborn/all-gen/reborn (3-20).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 
 
