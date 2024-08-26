@@ -2779,9 +2779,9 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 이제 베릴 구 위에 있는 체육관으로 들어갑니다. 경찰을 찾았는지에 따라 루트가 달라집니다.
 
-<a href="https://pdlunar.github.io/docs/reborn/all-gen/all-gen%20walkthrough.html#1-%ED%95%A8%EC%A0%95%EC%9D%84-%EB%B0%9F%EA%B1%B0%EB%82%98-%EC%A1%B0%EB%AC%B4%EB%9E%98%EA%B8%B0%ED%95%9C%ED%85%8C-%EB%93%A4%ED%82%A8-%EA%B2%BD%EC%9A%B0">1. 에이스와 배틀하기 전 경찰을 모두 찾지 못한 루트</a>
+<a href="https://pdlunar.github.io/docs/reborn/all-gen/all-gen%20walkthrough.html#%EA%B2%BD%EC%B0%B0%EC%9D%84-%EB%AA%A8%EB%91%90-%EC%B0%BE%EC%A7%80-%EB%AA%BB%ED%95%9C-%EB%A3%A8%ED%8A%B8">1. 에이스와 배틀하기 전 경찰을 모두 찾지 못한 루트</a>
 
-<a href="https://pdlunar.github.io/docs/reborn/all-gen/all-gen%20walkthrough.html#2-%EB%93%A4%ED%82%A4%EC%A7%80-%EC%95%8A%EA%B3%A0-%EA%B8%B8%EC%9D%84-%EB%B9%A0%EC%A0%B8%EB%82%98%EA%B0%80%EB%8A%94-%EA%B2%BD%EC%9A%B0">2. 에이스와 배틀하기 전 경찰을 모두 찾은 루트</a>
+<a href="https://pdlunar.github.io/docs/reborn/all-gen/all-gen%20walkthrough.html#%EA%B2%BD%EC%B0%B0%EC%9D%84-%EB%AA%A8%EB%91%90-%EC%B0%BE%EC%9D%80-%EB%A3%A8%ED%8A%B8">2. 에이스와 배틀하기 전 경찰을 모두 찾은 루트</a>
 
 ### **경찰을 모두 찾지 못한 루트**
 
