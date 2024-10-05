@@ -71,6 +71,11 @@ has_children: true
 | qol | hardcap, easyhms, fieldapp, earlyincu, stablweather, nopoisondam, weathermod, unrealtime, pinata, freeexpall, freeremotepc, powerpack |
 | speedrun | hardcap, monopsychic, easyhms, fullivs, norolls, stablweather, weathermod, freemegaz, earlyincu, pinata, mintyfresh, freeexpall |
 | speedrunnotx | hardcap, monopsychic, easyhms, fullivs, norolls, stablweather, weathermod, freemegaz, earlyincu, wtfisafont, pinata, mintyfresh, freeexpall |
+| randfields | nofield, eleterrain, grassterrain, mistterrain, darkcrystal, chessboard, bigtop, burning, swamp, rainbow, corrosive, corromist, desert, icy, rocky, forest, superheated, factory, shortcircuit, wasteland, ashenbeach, watersurface, underwater, cave, glitch, crystal, murkwater, mountain, snowy, holy, mirror, fairytale, dragonsden, flowergarden, starlight, newworld, inverse, psychterrain |
+| elemental | eleterrain, grassterrain, mistterrain, corromist, burning, icy, watersurface, underwater, murkwater, dragonsden |
+| magical | darkcrystal, rainbow, crystal, holy, fairytale, starlight, newworld, inverse, psychterrain |
+| synthetic | chessboard, bigtop, factory, shortcircuit, glitch, mirror, flowergarden |
+| telluric | swamp, corrosive, desert, rocky, forest, superheated, wasteland, ashenbeach, cave, mountain, snowy |
 
 | 패스워드 |  효과  |
 |:-------------|:-------------------------------------------------------------------|
@@ -107,6 +112,52 @@ has_children: true
 | justvulpix | 플레이어의 포켓몬을 제외한 모든 포켓몬이 식스테일이 된다 |
 | budewit | 플레이어의 포켓몬을 제외한 모든 포켓몬이 꼬몽울이 된다 |
 | wtfisafont | 모든 글꼴을 비활성화하여 게임 내 텍스트가 나타나지 않도록 한다 |
+| freescent | 그랜드홀에 무지개 향수가 들어있는 아이템을 미리 생성한다 |
+| itemfinder | 그랜드홀에 메가-Z링이 들어있는 아이템을 미리 생성한다 |
+| nopartnerai | 그랜드홀에 메가-Z링이 들어있는 아이템을 미리 생성한다 |
+| nopuzzles | 플레이어의 포켓몬을 제외한 모든 포켓몬이 꼬몽울이 된다 |
+| blindstep | 플레이어의 포켓몬을 제외한 모든 포켓몬이 꼬몽울이 된다 |
+| budewit | 플레이어의 포켓몬을 제외한 모든 포켓몬이 꼬몽울이 된다 |
+
+| 필드 패스워드 |  효과  |
+| nofield | 모든 배틀에서 필드를 없앤다 |
+| eleterrain | 모든 배틀에서 필드를 일렉트릭필드로 바꾼다 |
+| grassterrain | 모든 배틀에서 필드를 그래스필드로 바꾼다 |
+| mistterrain | 모든 배틀에서 필드를 미스트필드로 바꾼다 |
+| darkcrystal | 모든 배틀에서 필드를 암흑수정동굴로 바꾼다 |
+| chessboard | 모든 배틀에서 필드를 체스판으로 바꾼다 |
+| bigtop | 모든 배틀에서 필드를 서커스 아레나로 바꾼다 |
+| burning | 모든 배틀에서 필드를 작열 필드로 바꾼다 |
+| swamp | 모든 배틀에서 필드를 늪지대 필드로 바꾼다 |
+| rainbow | 모든 배틀에서 필드를 무지개 필드로 바꾼다 |
+| corrosive | 모든 배틀에서 필드를 부식 필드로 바꾼다 |
+| corromist | 모든 배틀에서 필드를 부식성 안개 필드로 바꾼다 |
+| desert | 모든 배틀에서 필드를 사막 필드로 바꾼다 |
+| icy	| 모든 배틀에서 필드를 빙판 필드로 바꾼다 |
+| rocky | 모든 배틀에서 필드를 암석 필드로 바꾼다 |
+| forest | 모든 배틀에서 필드를 숲 필드로 바꾼다 |
+| superheated | 모든 배틀에서 필드를 고열 필드로 바꾼다 |
+| factory | 모든 배틀에서 필드를 공장 필드로 바꾼다 |
+| shortcircuit | 모든 배틀에서 필드를 누전 공장 필드로 바꾼다 |
+| wasteland | 모든 배틀에서 필드를 쓰레기장으로 바꾼다 |
+| ashenbeach | 모든 배틀에서 필드를 잿빛 해안으로 바꾼다 |
+| watersurface | 모든 배틀에서 필드를 수면으로 바꾼다 |
+| underwater | 모든 배틀에서 필드를 수중으로 바꾼다 |
+| cave | 모든 배틀에서 필드를 동굴로 바꾼다 |
+| glitch | 모든 배틀에서 필드를 글리치 필드로 바꾼다 |
+| crystal | 모든 배틀에서 필드를 수정동굴로 바꾼다 |
+| murkwater | 모든 배틀에서 필드를 오염 수면으로 바꾼다 |
+| mountain | 모든 배틀에서 필드를 산으로 바꾼다 |
+| snowy | 모든 배틀에서 필드를 설산으로 바꾼다 |
+| holy | 모든 배틀에서 필드를 신성 필드로 바꾼다 |
+| mirror | 모든 배틀에서 필드를 거울 아레나로 바꾼다 |
+| fairytale | 모든 배틀에서 필드를 환상동화 필드로 바꾼다 |
+| dragonsden | 모든 배틀에서 필드를 용의 둥지로 바꾼다 |
+| flowergarden | 모든 배틀에서 필드를 화원 필드로 바꾼다 |
+| starlight | 모든 배틀에서 필드를 별빛 아레나로 바꾼다 |
+| newworld | 모든 배틀에서 필드를 신세계로 바꾼다 |
+| inverse | 모든 배틀에서 필드를 반전 필드로 바꾼다 |
+| psychterrain | 모든 배틀에서 필드를 사이코필드로 바꾼다 |
 
 ---
 ## 모드
