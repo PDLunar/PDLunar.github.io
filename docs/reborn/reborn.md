@@ -84,7 +84,7 @@ has_children: true
 | stablweather | 날씨가 일정에 따라 변하게 된다 |
 | norolls | 배틀 중 데미지 변화 메커니즘을 제거 |
 | pinata | 그랜드홀, 아게이트 서커스, 백화점 팬트하우스에 있는 npc가 경험사탕을 준다 |
-| freemegaz | 그랜드홀에 메가-Z링이 들어있는 아이템을 미리 생성한다 |
+| freemegaz | 그랜드홀에 메가Z링이 들어있는 아이템을 미리 생성한다 |
 | freeremotepc | 그랜드홀에 원격PC가 들어있는 아이템을 미리 생성한다 / 충전지 불필요 |
 | powerpack | 그랜드홀 바깥에 노력치용 도구(밴드)를 생성한다 |
 | shinycharm | 그랜드홀 바깥에 빛나는 부적을 생성한다 |
