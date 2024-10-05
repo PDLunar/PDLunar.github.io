@@ -1,5 +1,5 @@
 ---
-title: All-gen 공략
+title: All-gen 공략 (업데이트 예정)
 layout: default
 parent: 리본
 nav_order: 2.2
