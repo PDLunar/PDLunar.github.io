@@ -52,7 +52,8 @@ has_children: true
 |:-------------|:-------------------------------------------------------------------|
 | hardcap      |               레벨 상한을 넘어가는 경험치 획득 비활성화               |
 | easyhms      | 비전머신 및 필드기를 획득 및 조건 달성 시 기술을 배우지 않고도 사용 가능 |
-| freeexpall   |              그랜드홀에 학습장치가 들어 있는 아이템을 미리 생성        |
+| freeexpall   |              그랜드홀에 학습장치EX가 들어 있는 아이템을 미리 생성      |
+| itemfinder   |         그랜드홀에 다우징머신이 들어있는 아이템을 미리 생성한다         |
 
 | 유용한 패스워드 |  효과  |
 |:-------------|:-------------------------------------------------------------------|
@@ -61,16 +62,19 @@ has_children: true
 | earlyincu | 서브 퀘스트를 진행하여 구매 가능한 인큐베이터를 미리 언락하고 시작한다 |
 | fieldapp | 아이템을 줍지 않고도 필드를 전부 확인할 수 있게 된다 |
 | nopoisondam | 필드 상에서 독에 의한 데미지를 받지 않는다 |
+| battlebond | 피오레 저택에서 유대변화 개굴닌자를 얻을 방법이 생긴다 |
 
 | 세트 |  활성화 되는 패스워드  |
 |:-------------|:-------------------------------------------------------------------|
 | goodtaste | noitems, fullivs, hardcap, easyhms, norolls |
 | easymode | fullivs, moneybags, litemode, stopitems |
 | hardmode | noitems, nopenny, fullevs, emptyivs |
-| freebies | freeexpall, freeremotepc, powerpack, mintyfresh, shinycharm, freemegaz |
-| qol | hardcap, easyhms, fieldapp, earlyincu, stablweather, nopoisondam, weathermod, unrealtime, pinata, freeexpall, freeremotepc, powerpack |
-| speedrun | hardcap, monopsychic, easyhms, fullivs, norolls, stablweather, weathermod, freemegaz, earlyincu, pinata, mintyfresh, freeexpall |
-| speedrunnotx | hardcap, monopsychic, easyhms, fullivs, norolls, stablweather, weathermod, freemegaz, earlyincu, wtfisafont, pinata, mintyfresh, freeexpall |
+| freebies | freeexpall, freeremotepc, powerpack, mintyfresh, shinycharm, freemegaz, freescent, itemfinder |
+| qol | hardcap, easyhms, fieldapp, earlyincu, stablweather, nopoisondam, weathermod, unrealtime, pinata, freeexpall, freeremotepc, freescent |
+| speedrun | hardcap, monopsychic, easyhms, fullivs, norolls, stablweather, weathermod, freemegaz, earlyincu, pinata, mintyfresh, freeexpall, freescent, nopuzzles |
+| speedrunnotx | hardcap, monopsychic, easyhms, fullivs, norolls, stablweather, weathermod, freemegaz, earlyincu, wtfisafont, pinata, mintyfresh, freeexpall, freescent, nopuzzles |
+| pulse2 | opp31iv, opp252ev |
+| rocketlocke | nuzlocke, yoink |
 | randfields | nofield, eleterrain, grassterrain, mistterrain, darkcrystal, chessboard, bigtop, burning, swamp, rainbow, corrosive, corromist, desert, icy, rocky, forest, superheated, factory, shortcircuit, wasteland, ashenbeach, watersurface, underwater, cave, glitch, crystal, murkwater, mountain, snowy, holy, mirror, fairytale, dragonsden, flowergarden, starlight, newworld, inverse, psychterrain |
 | elemental | eleterrain, grassterrain, mistterrain, corromist, burning, icy, watersurface, underwater, murkwater, dragonsden |
 | magical | darkcrystal, rainbow, crystal, holy, fairytale, starlight, newworld, inverse, psychterrain |
@@ -111,6 +115,7 @@ has_children: true
 | levelfloor | 플레이어 포켓몬이 이전 레벨캡보다 낮다면 이전 레벨캡까지 레벨을 올린다 |
 | vulpixpls | (알로라)나인테일을 스타팅으로 선택할 수 있게 된다 |
 | eevee | 이브이를 스타팅으로 선택할 수 있게 된다 |
+| freestarter | 스타팅 포켓몬을 고를 때, 중앙 모니터에서 원하는 포켓몬을 직접 선택할 수 있다 |
 | dratiniearly | <a href="https://pokemon-reborn.fandom.com/wiki/Tanzan_Dratini_Special_Encounter"> 미뇽을 일찍 얻을 방법이 생긴다 </a> |
 | aevianmissy | 에이비움(리쥬버네이션)폼 무우마를 일찍 얻을 방법이 생긴다 ( 뿌리밑동굴에서 획득 가능 ) |
 | gen5weather | 전투중 날씨가 계속 지속된다 |
@@ -118,15 +123,17 @@ has_children: true
 | random | 랜덤화 기능이 활성화된다 |
 | justvulpix | 플레이어의 포켓몬을 제외한 모든 포켓몬이 식스테일이 된다 |
 | budewit | 플레이어의 포켓몬을 제외한 모든 포켓몬이 꼬몽울이 된다 |
+| doubles | 모든 배틀이 더블배틀이 된다 |
+| aiplay | 배틀에서 AI가 플레이어의 행동을 대신하여 전투를 진행한다 |
+| yoink | 플레이어가 상대 트레이너의 포켓몬을 하나씩 잡을 수 있게 된다 |
 | wtfisafont | 모든 글꼴을 비활성화하여 게임 내 텍스트가 나타나지 않도록 한다 |
 | freescent | 그랜드홀에 무지개향수가 들어있는 아이템을 미리 생성한다 |
-| itemfinder | 그랜드홀에 다우징머신이 들어있는 아이템을 미리 생성한다 |
 | nopartnerai | 플레이어가 AI 파트너의 행동을 직접 선택할 수 있게 된다 |
 | nopuzzles | 이전 세이브파일이 없어도 일부 퍼즐을 건너뛸 수 있게 된다 |
 | blindstep | 시각 장애인 플레이어를 위한 기능이 추가 된다 |
-| budewit |  |
 
 | 필드 패스워드 |  효과  |
+|:--------------|:-------|
 | nofield | 모든 배틀에서 필드를 없앤다 |
 | eleterrain | 모든 배틀에서 필드를 일렉트릭필드로 바꾼다 |
 | grassterrain | 모든 배틀에서 필드를 그래스필드로 바꾼다 |
@@ -186,6 +193,12 @@ has_children: true
 <p>끄고 싶으면 true 를 false 로 바꿔주기만 하면 된다</p>
 
 <img alt="리본 디버그" src="/img/reborn/디버그.png"/>
+
+**19.5 패치로 디버그 패스워드가 추가**
+
+| 디버그 패스워드 |  효과  |
+|:--------------|:---------|
+| debug | 일부 디버그 기능을 활성화 한다 |
 
 ---
 ## All-Gen 모드 변경사항
