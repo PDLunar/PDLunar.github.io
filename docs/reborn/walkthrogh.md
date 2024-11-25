@@ -3113,7 +3113,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 ### **경찰을 모두 찾은 루트**
 <br>
-<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EA%B2%BD%EC%B0%B0%EC%9D%84-%EB%AA%A8%EB%91%90-%EC%B0%BE%EC%9D%80-%EB%A3%A8%ED%8A%B8">경찰을 모두 찾지 못했다면 여기를 클릭하세요.</a>
+<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EC%97%90%ED%94%BC%EC%86%8C%EB%93%9C-4---%EC%97%AC%EC%A7%84">경찰을 모두 찾지 못했다면 여기를 클릭하세요.</a>
 
 체육관에 들어가면 경찰청장이 필드 효과 정보 11번을 줍니다.
 
