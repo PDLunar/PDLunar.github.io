@@ -2699,7 +2699,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 이번 경로를 설명할 때는 아이템을 줍지 않고 진행하겠습니다.
 
 ### **1. 함정을 밟거나 조무래기한테 들킨 경우**
-
+<br>
 <img src ="/img/reborn/19.5/로도크린 정글 A루트.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 감옥에 갇힌 경우 이 글을 읽고, 그렇지 않은 경우는 아래 글을 읽으세요.
@@ -2732,6 +2732,8 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 트레이너와 눈을 마주치지 않고 표시된 빨간 화살표를 따라가 처음 위치로 돌아갑니다.
 
 ### **2. 들키지 않고 길을 빠져나가는 경우**
+<br>
+<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EB%A1%9C%EB%8F%84%ED%81%AC%EB%A6%B0-%EC%A0%95%EA%B8%80-%ED%83%90%ED%97%98">유성단 조무래기들에게 들켰다면 여기를 클릭하세요.</a>
 
 <img src ="/img/reborn/19.5/로도크린 정글 B루트.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
@@ -3086,7 +3088,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 <a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EA%B2%BD%EC%B0%B0%EC%9D%84-%EB%AA%A8%EB%91%90-%EC%B0%BE%EC%9D%80-%EB%A3%A8%ED%8A%B8">2. 에이스와 배틀하기 전 경찰을 모두 찾은 루트</a>
 
 ### **경찰을 모두 찾지 못한 루트**
-
+<br>
 기둥의 색을 전부 빨간색으로 바꾸면 코리의 방이 열립니다.
 
 계단을 올라가 안쪽 방으로 들어가면 코리가 기다리고 있습니다.
@@ -3121,6 +3123,8 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 </details>
 
 ### **경찰을 모두 찾은 루트**
+<br>
+<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EA%B2%BD%EC%B0%B0%EC%9D%84-%EB%AA%A8%EB%91%90-%EC%B0%BE%EC%9D%80-%EB%A3%A8%ED%8A%B8">경찰을 모두 찾지 못했다면 여기를 클릭하세요.</a>
 
 체육관에 들어가면 경찰청장이 필드 효과 정보 11번을 줍니다.
 
