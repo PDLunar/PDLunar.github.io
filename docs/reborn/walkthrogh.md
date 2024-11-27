@@ -3238,6 +3238,38 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 - 자망칼 · 암멍이 · 버섯꼬 · 포푸니 · 찌르꼬
 - 별가사리 · 토게피 · 톱치
 
+<style>
+  .pokemon-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  .pokemon-list li {
+    display: inline;
+    margin-right: 10px;
+  }
+</style>
+
+<p>다음 중 하나가 등장합니다:</p>
+<ul class="pokemon-list">
+  <li>식스테일 ·</li>
+  <li>알로라 식스테일 ·</li>
+  <li>터검니 ·</li>
+  <li>루리리 ·</li>
+  <li>소미안 ·</li>
+  <li>에레키드 ·</li>
+  <li>고오스 ·</li>
+  <li>활화르바 ·</li>
+  <li>불켜미 ·</li>
+  <li>시마사리 ·</li>
+  <li>자망칼 ·</li>
+  <li>암멍이 ·</li>
+  <li>버섯꼬 ·</li>
+  <li>포푸니 ·</li>
+  <li>찌르꼬 ·</li>
+  <li>별가사리 ·</li>
+  <li>토게피 ·</li>
+  <li>톱치</li>
+</ul>
 
 
 
