@@ -3233,6 +3233,8 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 | **별가사리**    | **토게피**  | **톱치**    |             |           |
 
 ## **옵시디아 북구**
+<br>
+<img src ="/img/reborn/19.5/옵시디아 북구.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 그랜드홀이 있는 오팔 구로 돌아가 위로 올라갑니다.
 
