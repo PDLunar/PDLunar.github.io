@@ -3234,7 +3234,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 ## **옵시디아 북구**
 <br>
-<img src ="/img/reborn/19.5/옵시디아 북구.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (4-1).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 키토산, PP에이드, 스페셜가드, 좋은상처약, 평범한사탕, 아티피셜시드, 특성캡슐, 풍선껌, 슈퍼볼
 
@@ -3301,7 +3301,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 ## **라피스 구**
 <br>
-<img src ="/img/reborn/19.5/옵시디아 북구.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (4-2).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 경험사탕M, 디펜드업, 몬스터볼, 솔트카라멜, 파랑조각, 슈퍼볼, 복슝열매
 
