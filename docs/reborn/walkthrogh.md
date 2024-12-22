@@ -3457,7 +3457,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 <br>
 **대계단 1층**
 
-<img src ="/img/reborn/19.5/대계단 1F).png">
+<img src ="/img/reborn/19.5/대계단 1F.png">
 
 - 초록조각
 
