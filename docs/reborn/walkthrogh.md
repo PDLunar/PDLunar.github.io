@@ -650,7 +650,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 - 평범한사탕, 상처약, 정신력깃털, 초록조각, 보라조각, 파랑조각, 평범한사탕
 
-골목길 왼쪽으로 가서 시계방향으로 진행합니다.
+골목 왼쪽으로 가서 시계방향으로 진행합니다.
 
 밤에 처음 보이는 건물에 들어가면 불이 꺼져 어둡지만, 희미하게 포켓몬 보입니다.
 
@@ -3649,9 +3649,9 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 
 옵시디아 북구 뒷골목에는 마그마파, 라피스 뒷골목에는 아쿠아파가 있습니다.
 
-<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EA%B2%BD%EC%B0%B0%EC%9D%84-%EB%AA%A8%EB%91%90-%EC%B0%BE%EC%A7%80-%EB%AA%BB%ED%95%9C-%EB%A3%A8%ED%8A%B8">마그마파 가입</a>
+<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EB%A7%88%EA%B7%B8%EB%A7%88%ED%8C%8C-1%EB%B6%80">마그마파 가입</a>
 
-<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EA%B2%BD%EC%B0%B0%EC%9D%84-%EB%AA%A8%EB%91%90-%EC%B0%BE%EC%9D%80-%EB%A3%A8%ED%8A%B8">아쿠아파 가입</a>
+<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EC%95%84%EC%BF%A0%EC%95%84%ED%8C%8C-1%EB%B6%80">아쿠아파 가입</a>
 
 ## **마그마파 (1부)**
 <br>
@@ -3775,15 +3775,23 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 
 그러나 아쿠아파 멤버 또한 이미 7번가에 팔았다고 하며 메트로놈을 줍니다.
 
+## Cocoon Badge // 번역본과 통일하기
 
+가입을 끝냈다면 크로드버리의 집으로 갑니다.
 
+아마 플레이어를 알아보고 범인으로 지목할것입니다.
 
+건물 밖으로 나오면 경찰이 Bike Voucher를 줍니다. // 번역본과 통일하기
 
+아래에 있는 Lapis Luxury Cycle로 가서 자전거를 교환해 줍니다. // 번역본과 통일하기
 
+자전거를 얻었으니 맑은 날 밤이라면 베릴 구로 이동합니다.
 
+목도리키텔이 있었던 건물로 올라가면 코리?가 도망칩니다.
 
+다음은 페리도트 구 프렌들리숍 근처에 가면 코리?가 다시 도망칩니다.
 
-
+마지막으로 옵시디아 북구 뒷골목 왼쪽 건물로 가면 **조로아**를 잡을 수 있고 안에서 터레인시드를 주울 수 있습니다.
 
 
 
