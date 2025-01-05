@@ -1493,7 +1493,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 아래에 있는 남성과 대화하여 문을 열고, 빅토리아가 있던 자리로 돌아가 포켓스낵을 주워줍니다.
 
-<details>
+
   <summary>옵시디아 슬럼가 1층 A구역 전체 지도</summary>
   <p>
     <img src ="/img/reborn/19.5/reborn slum 1F.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
@@ -3835,7 +3835,9 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
     <p>
 위에 있는 모니터는 왼쪽부터 1~4번으로 적고, 아래에 있는 모니터 양쪽은 아래라고 적겠습니다.
     <br><br>
-2번: On, 아래: On, 1번: On, 아래: Off, 3번: On, 4번: On
+2번: On, 아래: On, 1번: On, 아래: Off, 3번: On, 4번: On, 아래: On
+    <br><br>
+이후 은일이의 방으로 올라가서 오른쪽으로 나가 마지막 모니터를 켭니다.
     </p>
 </details>
 
