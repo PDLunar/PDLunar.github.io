@@ -3656,7 +3656,7 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 
 <a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EC%95%84%EC%BF%A0%EC%95%84%ED%8C%8C-1%EB%B6%80">아쿠아파 가입</a>
 
-## **마그마파 (1부)**
+### **마그마파 (1부)**
 <br>
 옵시디아 북구 뒷골목으로 가서 마그마파 멤버들과 배틀합니다.
 
@@ -3711,7 +3711,7 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 
 배틀에서 이기더라도, 이미 7번가에 있는 누군가에게 포켓몬을 팔았다는 사실을 알게 됩니다.
 
-## **아쿠아파 (1부)**
+### **아쿠아파 (1부)**
 <br>
 <a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#cocoon-badge--%EB%B2%88%EC%97%AD%EB%B3%B8%EA%B3%BC-%ED%86%B5%EC%9D%BC%ED%95%98%EA%B8%B0">마그마파에 가입 했다면 여기를 클릭하세요.</a>
 
@@ -4097,19 +4097,23 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 |:-------|:-----|:-----|:-------|
 | 대굴레오 Lv32<br>얼음/물 | 두꺼운지방 | 오로라빔 / 누르기<br>잠자기 / 코골기 | 93/37/44/47/44/28 |
 
-대계단이 있는 장소에 연결의돌을 10000원에 파는 사람이 있습니다.
+대계단 근처에 연결의돌을 10000원에 파는 사람이 있습니다.
 
-연결의돌은 통신교환을 하면 진화하는 포켓몬들에게 사용할 수 있습니다.
+연결의돌은 통신교환으로 진화하는 포켓몬들에게 사용할 수 있습니다.
 
 비싸지만 구매를 하기까지 오래 걸리기 때문에 돈을 모아서 구매할 가치가 있습니다.
 
-## **마그마파 (2부)**
+## **라이벌을 물리치다**
 <br>
-<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#cocoon-badge--%EB%B2%88%EC%97%AD%EB%B3%B8%EA%B3%BC-%ED%86%B5%EC%9D%BC%ED%95%98%EA%B8%B0">아쿠아파에 가입 했다면 여기를 클릭하세요.</a>
+<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EB%A7%88%EA%B7%B8%EB%A7%88%ED%8C%8C-1%EB%B6%80">마그마파 가입</a>
 
+<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EC%95%84%EC%BF%A0%EC%95%84%ED%8C%8C-1%EB%B6%80">아쿠아파 가입</a>
+
+### **마그마파 (2부)**
+<br>
 옵시디아 북구 뒷골목의 마적수에게 갑니다.
 
-라피스 구에 있는 아쿠아파의 본부로 가서 입구에 있는 아쿠아파와 배틀합니다.
+라피스 구 아쿠아파 본부 입구에서 아쿠아파와 배틀합니다.
 
 - **아쿠아파 Mannie & 아쿠아파 Razzy / 필드 : 없음** // 번역본과 통일하기
 
@@ -4132,7 +4136,7 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 | 거북왕 Lv42<br>물 | 급류 | 아쿠아테일 / 물기<br>로켓박치기 / 하품 | 133/97/103/81/107/85 |
 | 샤크니아 Lv45<br>물/악 | 가속 | 아쿠아제트 / 깨물어부수기<br>베어가르기 / 얼음엄니 | 139/147/62/99/62/111 |
 
-배틀에서 이기면 아쿠아파가 후퇴합니다. 이곳에서 낚시를 할 수 있습니다.
+배틀에서 이기면 아쿠아파가 후퇴하고, 낚시를 할 수 있습니다.
 
 **라피스 뒷골목 낚시**
 
@@ -4142,7 +4146,7 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 
 옵시디아 북구 뒷골목으로 돌아가면 **델빌**을 받을 수 있습니다.
 
-## **아쿠아파 (2부)**
+### **아쿠아파 (2부)**
 <br>
 <a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#cocoon-badge--%EB%B2%88%EC%97%AD%EB%B3%B8%EA%B3%BC-%ED%86%B5%EC%9D%BC%ED%95%98%EA%B8%B0">마그마파에 가입 했다면 여기를 클릭하세요.</a>
 
