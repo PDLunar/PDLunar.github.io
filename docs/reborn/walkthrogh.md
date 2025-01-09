@@ -3652,9 +3652,9 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 
 옵시디아 북구 뒷골목에는 마그마파, 라피스 뒷골목에는 아쿠아파가 있습니다.
 
-<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EB%A7%88%EA%B7%B8%EB%A7%88%ED%8C%8C-1%EB%B6%80">마그마파 가입</a>
+<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EB%A7%88%EA%B7%B8%EB%A7%88%ED%8C%8C-2%EB%B6%80">마그마파 가입</a>
 
-<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EC%95%84%EC%BF%A0%EC%95%84%ED%8C%8C-1%EB%B6%80">아쿠아파 가입</a>
+<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EC%95%84%EC%BF%A0%EC%95%84%ED%8C%8C-2%EB%B6%80">아쿠아파 가입</a>
 
 ### **마그마파 (1부)**
 <br>
@@ -4161,7 +4161,7 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 | 델빌 Lv32<br>악/불꽃 | 일찍기상 | 냄새구별 / 집단구타<br>불꽃엄니 / 속여때리기 | 77/50/31/63/44/53 |
 | 델빌 Lv32<br>악/불꽃 | 일찍기상 | 냄새구별 / 집단구타<br>불꽃엄니 / 속여때리기 | 77/50/31/63/44/53 |
 
-
+## **바위깨기 탐험**
 
 
 
