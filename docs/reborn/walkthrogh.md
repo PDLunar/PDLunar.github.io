@@ -4105,9 +4105,9 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 
 ## **라이벌을 물리치다**
 <br>
-<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EB%A7%88%EA%B7%B8%EB%A7%88%ED%8C%8C-1%EB%B6%80">마그마파 가입</a>
+<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EB%A7%88%EA%B7%B8%EB%A7%88%ED%8C%8C-2%EB%B6%80">마그마파 가입</a>
 
-<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EC%95%84%EC%BF%A0%EC%95%84%ED%8C%8C-1%EB%B6%80">아쿠아파 가입</a>
+<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EC%95%84%EC%BF%A0%EC%95%84%ED%8C%8C-2%EB%B6%80">아쿠아파 가입</a>
 
 ### **마그마파 (2부)**
 <br>
