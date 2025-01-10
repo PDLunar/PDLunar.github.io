@@ -4199,7 +4199,7 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 
 빛나는 돌에서 채굴을 할 수 있고 픽업 포켓몬이 가져오는 폭발가루로 잔해를 치울 수 있습니다.
 
-
+<img src ="/img/reborn/mining.png">
 
 
 
