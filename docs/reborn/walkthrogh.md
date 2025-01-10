@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/51b944cf-ebbd-454a-b61b-f03935389e21)---
+---
 layout: default
 title: 리본 공략 (19.5 작업중)
 parent: 리본
