@@ -50,7 +50,7 @@ nav_order: 2.1
 
 ( 적혀 있지 않은 선택지는 관계 포인트에 영향을 미치지 않습니다. )
 
-<img src ="/img/reborn/19.5/reborn (1-0).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (1-1).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 ( 사진 크기가 작을 시 이미지를 눌러서 확대, 몇몇 이미지에는 메이플스토리 서체가 적용되어 있습니다. )
 {: .fs-2 }
 
@@ -272,7 +272,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 ## **페리도트 구 남부**
 <br>
-<img src ="/img/reborn/19.5/reborn (1-1).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (1-2).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 동굴탈출로프, 마비치료제, 엘리멘탈시드, 보라조각, 파랑조각, 평범한사탕, 독주얼, 빨강조각
 
@@ -372,7 +372,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 |  **콘치**  | 70 |
 | **형광어** | 30 |
 
-<img src ="/img/reborn/19.5/reborn (1-2).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (1-3).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 하트비늘, 보라조각, 기력의조각, 해독제, 마비치료제
 
@@ -448,7 +448,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 남성을 따라 페리도트 남부 골목으로 들어갑니다.
 
-<img src ="/img/reborn/19.5/reborn (1-3).png">
+<img src ="/img/reborn/19.5/reborn (1-4).png">
 
 - 악주얼, 상처약
 
@@ -472,7 +472,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 밖으로 나와 철로를 따라 오른쪽으로 갑니다.
 
-<img src ="/img/reborn/19.5/reborn (1-4).png">
+<img src ="/img/reborn/19.5/reborn (1-5).png">
 
 - 버치열매, 보라조각
 
@@ -501,7 +501,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 ## **페리도트 구**
 <br>
-<img src ="/img/reborn/19.5/reborn (1-5).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (1-6).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 몬스터볼, 오랭열매, 특성캡슐, 화상치료제, 빨강조각
 
@@ -542,7 +542,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 왼쪽 건물 안에는 상처약이 있습니다.
 
-<img src ="/img/reborn/19.5/reborn (1-6).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (1-7).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 파랑조각, 마비치료제, PP에이드, 리보플라빈, 빨간조각, 상처약
 
@@ -602,7 +602,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 | 모래두지 Lv8<br>땅 | 모래숨기 | 웅크리기 / 모래뿌리기<br>독침 / 구르기 | 27/18/19/9/10/12 | 
 | 디그다 Lv9<br>땅 | 모래숨기 | 할퀴기 / 모래뿌리기<br>울음소리 / 놀래키기 | 21/16/10/12/14/23 |
 
-<img src ="/img/reborn/19.5/reborn (1-7).png" style="float: left; width:40%;">
+<img src ="/img/reborn/19.5/reborn (1-8).png" style="float: left; width:40%;">
 <div style="clear: both;"></div> 
 
 - 벌레회피스프레이, 초록조각
@@ -646,7 +646,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 또는 보상을 포기하고 진화를 시켜도 상관은 없습니다.
 
-<img src ="/img/reborn/19.5/reborn (1-8).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (1-9).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 평범한사탕, 상처약, 정신력깃털, 초록조각, 보라조각, 파랑조각, 평범한사탕
 
@@ -1174,7 +1174,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 빅토리아와의 관계 포인트를 쌓고 배틀을 원하시면 오른쪽으로 가세요.
 
-<img src ="/img/reborn/19.5/reborn (2-0).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (2-1).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 포켓스낵, 포켓스낵, 상처약, 크리티컬커터
 
@@ -1219,7 +1219,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 **옵시디아 슬럼가 1층 A구역**
 
-<img src ="/img/reborn/19.5/reborn (2-1).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (2-2).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 상처약, 슈퍼볼, 포켓스낵, 빨강조각
 
@@ -1284,7 +1284,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
   </p>
 </details>
 
-<img src ="/img/reborn/19.5/reborn (2-2).png">
+<img src ="/img/reborn/19.5/reborn (2-3).png">
 
 - 오랭열매, 골드스프레이
 
@@ -1311,7 +1311,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 **옵시디아 슬럼가 1층 B구역**
 
-<img src ="/img/reborn/19.5/reborn (2-3).png">
+<img src ="/img/reborn/19.5/reborn (2-4).png">
 
 - 팝핑캔디, 복분열매
 
@@ -1342,7 +1342,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 **옵시디아 슬럼가 2층**
 
-<img src ="/img/reborn/19.5/reborn (2-4).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (2-5).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 경험사탕XS, 상처약, 얼음상태치료제
 
@@ -1380,7 +1380,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 **옵시디아 슬럼가 지하 1층 A구역**
 
-<img src ="/img/reborn/19.5/reborn (2-5).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (2-6).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 경험사탕S, 노말주얼, 불꽃사탕, 초록조각, 보라조각
 
@@ -1425,7 +1425,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
   </p>
 </details>
 
-<img src ="/img/reborn/19.5/reborn (2-6).png">
+<img src ="/img/reborn/19.5/reborn (2-7).png">
 
 - 오랭열매, 몬스터볼
 
@@ -1451,7 +1451,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 **옵시디아 슬럼가 지하 1층 C구역**
 
-<img src ="/img/reborn/19.5/reborn (2-7).png">
+<img src ="/img/reborn/19.5/reborn (2-8).png">
 
 - 상처약, 파랑조각
 
@@ -1459,7 +1459,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 **옵시디아 슬럼가 지하 1층 B구역**
 
-<img src ="/img/reborn/19.5/reborn (2-8).png">
+<img src ="/img/reborn/19.5/reborn (2-9).png">
 
 - 상처약, 경험사탕S
 
@@ -1467,17 +1467,17 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 **옵시디아 슬럼가 지하 1층 A구역**
 
-<img src ="/img/reborn/19.5/reborn (2-9).png">
+<img src ="/img/reborn/19.5/reborn (2-10).png">
 
 - 화상치료제
 
 에스컬레이터 사이에는 솜사탕이 있습니다. 오른쪽으로 계속 이동합니다.
 
-<img src ="/img/reborn/19.5/reborn (2-10).png">
+<img src ="/img/reborn/19.5/reborn (2-11).png">
 
 - 해독제
 
-<img src ="/img/reborn/19.5/reborn (2-11).png">
+<img src ="/img/reborn/19.5/reborn (2-12).png">
 
 - 버치열매, 경험사탕S
 
@@ -1487,7 +1487,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 **옵시디아 슬럼가 1층 A구역**
 
-<img src ="/img/reborn/19.5/reborn (2-12).png">
+<img src ="/img/reborn/19.5/reborn (2-13).png">
 
 - 잠깨는약
 
@@ -1502,7 +1502,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 ( 전체 지도의 맨 왼쪽을 확인하세요. )
 
-<img src ="/img/reborn/19.5/reborn (2-13).png">
+<img src ="/img/reborn/19.5/reborn (2-14).png">
 
 - 경험사탕XS, 해독제
 
@@ -1512,7 +1512,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 이제 밖으로 나옵니다. 
 
-<img src ="/img/reborn/19.5/reborn (2-14).png">
+<img src ="/img/reborn/19.5/reborn (2-15).png">
 
 - 벌레회피스프레이
 
@@ -1520,7 +1520,7 @@ TV에서는 스토리가 진행된 후 다양한 소식과 정보를 얻을 수 
 
 ## **코랄 구**
 <br>
-<img src ="/img/reborn/19.5/reborn (2-15).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (2-16).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 상처약, 최고급상처약, 보라조각, 풍선껌, 벌레회피스프레이, 배리열매
 
@@ -1690,7 +1690,7 @@ Central 살롱 아래로 가서 풀베기를 사용해 길을 열고 내려갑�
 | **꼬지지** | 6 |
 | **해루미** | 5 |
 
-<img src ="/img/reborn/19.5/reborn (2-16).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (2-17).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 왼쪽 세 번째 덤불에 오랭열매가 있습니다.
 
@@ -1705,17 +1705,17 @@ Central 살롱 아래로 가서 풀베기를 사용해 길을 열고 내려갑�
 
 이상한 나무(A)를 베면 입구 근처를 막고 있던 덩굴이 사라집니다.
 
-<img src ="/img/reborn/19.5/reborn (2-17).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (2-18).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 입구로 돌아와 나무(B)를 베고 열린 길을 따라가면, 도로 근처 덤불에서 과사열매를 찾을 수 있습니다.
 
 세 번째 이상한 나무(C)를 베면 입구 근처에 있던 두 번째 덩굴이 사라집니다.
 
-<img src ="/img/reborn/19.5/reborn (2-18).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (2-19).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 입구 근처로 돌아가서 왼쪽에 있는 이상한 나무(D)를 베고, 이상한 나무(A)가 있던 장소로 돌아갑니다.
 
-<img src ="/img/reborn/19.5/reborn (2-19).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (2-20).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 꽃 근처 덤불에서 복슝열매를 찾을 수 있습니다.
 
@@ -1723,7 +1723,7 @@ Central 살롱 아래로 가서 풀베기를 사용해 길을 열고 내려갑�
 
 이상한 나무(E)는 지름길을 막고 있던 나무 입니다. 
 
-<img src ="/img/reborn/19.5/reborn (2-20).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (2-21).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 이상한 나무(F)를 베고 열린 길로 진행합니다.
 
@@ -1738,7 +1738,7 @@ Central 살롱 아래로 가서 풀베기를 사용해 길을 열고 내려갑�
 
 돌에서 경험사탕S를 주운 뒤, 아래에 있는 이상한 나무(G)를 베어줍니다.
 
-<img src ="/img/reborn/19.5/reborn (2-21).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (2-22).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 도로 왼쪽 덤불에 초록조각이 있습니다.
 
@@ -1751,7 +1751,7 @@ Central 살롱 아래로 가서 풀베기를 사용해 길을 열고 내려갑�
 
 왼쪽에 있는 이상한 나무(H)와 이상한 나무(I)를 베어줍니다.
 
-<img src ="/img/reborn/19.5/reborn (2-22).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (2-23).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 위에 숨겨진 길로 들어가 건물 안에서 창고열쇠와 TM54 칼등치기를 찾은 후
 
@@ -1800,7 +1800,7 @@ Central 살롱 아래로 가서 풀베기를 사용해 길을 열고 내려갑�
 
 포켓몬센터 왼쪽 건물에서 **캐스퐁**과 교환하실 수 있습니다.
 
-<img src ="/img/reborn/19.5/reborn (2-23).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (2-24).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 하트비늘, 경험사탕M, 좋은상처약, 빨강조각
 
@@ -1903,7 +1903,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 
 ## **오닉스 구**
 <br>
-<img src ="/img/reborn/19.5/reborn (2-24).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (2-25).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 버치열매, 해독제, 알칼로이드, 포켓스낵
 
@@ -4380,7 +4380,7 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 
 ### **베릴 구 바위깨기**
 <br>
-Beryl Cemetery로 가서 바위깨기를 한 뒤, 동굴로 들어갑니다.
+Beryl Cemetery로 가서 바위깨기를 한 뒤, 동굴로 들어갑니다. // 번역본과 통일하기
 
 ### **베릴 동굴 1층 등장포켓몬**
 
@@ -4454,9 +4454,28 @@ Beryl Cemetery로 가서 바위깨기를 한 뒤, 동굴로 들어갑니다.
 
 아직은 불길한인형이 한 개 밖에 없기 때문에 한 마리밖에 잡지 못합니다.
 
-맑은 날이라면 불길한인형이 없는 상태에서 동굴에 들어갔다가 나오면 **네이티**를 잡을 수 있습니다.
+맑은 날이라면 불길한인형이 없는 상태에서 베릴 구에 갔다 오면 **네이티**를 잡을 수 있습니다.
 
+### **시트린산 바위깨기**
+<br>
+<img src ="/img/reborn/19.5/reborn (4-7).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
+-
+
+베릴 대교를 건너 바위깨기를 한 뒤, 아래 동굴로 들어갑니다.
+
+### **시트린산 2층 등장포켓몬**
+
+| 시트린산 2층 | 확률 |
+|:-----|:----|
+| *분이벌레* | 30 |
+| *자마슈* | 25 |
+| *파르빗* | 17 |
+| *음뱃* | 15 |
+| *분떠도리* | 5 |
+| *마셰이드* | 4 |
+| *파르토* | 2 |
+| *비비용* | 2 |
 
 
 
