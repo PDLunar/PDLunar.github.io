@@ -3633,7 +3633,7 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 
 라피스 구 중앙에 있는 고아원으로 이동합니다.
 
-- **Orderly John / 필드 : 없음** // 번역본과 통일하기
+- **병동 수행원 John / 필드 : 없음** // 번역본과 통일하기
 
 | 포켓몬 | 특성 | 기술 | HABCDS |
 |:-------|:-----|:-----|:-------|
@@ -3910,7 +3910,7 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 - 카인과 파트너 (카인 +1)
 - 은일이와 파트너 (은일 -1)
 
-- **Orderly Timothy & Orderly Chris / 필드 : 없음** // 번역본과 통일하기
+- **병동 수행원 Timothy & 병동 수행원 Chris / 필드 : 없음** // 번역본과 통일하기
 
 | 포켓몬 | 특성 | 기술 | HABCDS |
 |:-------|:-----|:-----|:-------|
@@ -3936,7 +3936,7 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 
 관계 포인트를 얻기 위해 위층으로 먼저 올라갑니다.
 
-- **Orderly Stephanie & Orderly Allyssa / 필드 : 없음** // 번역본과 통일하기
+- **병동 수행원 Stephanie & 병동 수행원 Allyssa / 필드 : 없음** // 번역본과 통일하기
 
 | 포켓몬 | 특성 | 기술 | HABCDS |
 |:-------|:-----|:-----|:-------|
@@ -3947,7 +3947,7 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 | 저리어 Lv34<br>전기 | 부유 | 몸통박치기 / 전기자석파<br>스파크 / 차지빔 | 75/49/39/43/39/53 |
 | 윤겔라 Lv33<br>에스퍼 | 싱크로 | 리플렉터 / 사이코커터<br>HP회복 / 텔레키네시스 | 76/35/32/91/58/81 |
 
-- **Orderly Bisshop & Orderly Roth / 필드 : 없음** // 번역본과 통일하기
+- **병동 수행원 Bisshop & 병동 수행원 Roth / 필드 : 없음** // 번역본과 통일하기
 
 | 포켓몬 | 특성 | 기술 | HABCDS |
 |:-------|:-----|:-----|:-------|
@@ -3969,7 +3969,7 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 
 위에 있는 방부터 진행합니다. 초록색 책들에는 새로운 캐릭터들의 정보가 담겨 있습니다.
 
-- **Orderly Callie & Orderly Howaya / 필드 : 없음** // 번역본과 통일하기
+- **병동 수행원 Callie & 병동 수행원 Howaya / 필드 : 없음** // 번역본과 통일하기
 
 | 포켓몬 | 특성 | 기술 | HABCDS |
 |:-------|:-----|:-----|:-------|
@@ -3982,7 +3982,7 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 
 방을 나와 아래로 내려갑니다.
 
-- **Orderly Ramsey & Orderly Danielle / 필드 : 없음** // 번역본과 통일하기
+- **병동 수행원 Ramsey & 병동 수행원 Danielle / 필드 : 없음** // 번역본과 통일하기
 
 | 포켓몬 | 특성 | 기술 | HABCDS |
 |:-------|:-----|:-----|:-------|
@@ -4000,7 +4000,7 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 **관계 포인트**
 - 갇혀있는 노엘을 무시 (노엘 -1)
 
-- **Orderly Ramsey & Orderly Danielle / 필드 : 없음** // 번역본과 통일하기
+- **병동 수행원 Ramsey & 병동 수행원 Danielle / 필드 : 없음** // 번역본과 통일하기
 
 | 포켓몬 | 특성 | 기술 | HABCDS |
 |:-------|:-----|:-----|:-------|
@@ -4021,7 +4021,7 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 
 샤를로트를 풀어준 뒤, 오른쪽 아이도 풀어줍니다. 말을 걸면 경험사탕M 4개를 받을 수 있습니다.
 
-- **Orderly Christina & Orderly Matt / 필드 : 없음** // 번역본과 통일하기
+- **병동 수행원 Christina & 병동 수행원 Matt / 필드 : 없음** // 번역본과 통일하기
 
 | 포켓몬 | 특성 | 기술 | HABCDS |
 |:-------|:-----|:-----|:-------|
