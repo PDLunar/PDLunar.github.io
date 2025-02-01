@@ -5022,7 +5022,7 @@ Beryl Cemetery로 가서 바위깨기를 한 뒤, 동굴로 들어갑니다. // 
 
 **아포필 동굴 2층**
 <br>
-<img src ="/img/reborn/19.5/reborn (6-5).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (6-6).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 - 빨강조각, PP에이드, 마비치료제, 상처약, 화상치료제
 
