@@ -2117,7 +2117,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 <img src ="/img/reborn/all-gen/reborn (3-1).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 - 좋은상처약, 해독제, 작은버섯, PP에이드, 복슝열매, 포켓스낵, 초록조각, 좋은상처약
 
-코리와 헤더와 대화한 후 경찰서로 갑니다.
+코리와 헤더와 대화한 후 경찰청으로 갑니다.
 
 경찰청장이 5명의 경찰들을 찾아달라고 부탁합니다.
 
