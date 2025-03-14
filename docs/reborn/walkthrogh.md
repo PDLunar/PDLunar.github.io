@@ -1497,6 +1497,7 @@ XX7X. 다리를 건너 위로 올라가세요.
 
 아래에 있는 남성과 대화하여 문을 열고, 빅토리아가 있던 자리로 돌아가 포켓스낵을 주워줍니다.
 
+<details>
   <summary>옵시디아 슬럼가 1층 A구역 전체 지도</summary>
   <p>
     <img src ="/img/reborn/19.5/reborn slum 1F.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
