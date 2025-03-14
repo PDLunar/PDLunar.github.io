@@ -1272,17 +1272,6 @@ XX7X. 다리를 건너 위로 올라가세요.
 
 1층으로 올라가 네트볼을 줍고, 길을 막고 있는 남성과 대화하여 길을 열어줍니다.
 
-빅토리아가 있던 자리로 돌아가서, 이전에 줍지 못했던 포켓스낵을 주워줍니다.
-
-<details>
-  <summary>옵시디아 슬럼가 1층 A구역 전체 지도</summary>
-  <p>
-    <img src ="/img/reborn/all-gen/reborn slum 1F.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
-  </p>
-</details>
-
-( 전체 지도의 맨 왼쪽을 확인하세요. )
-
 2층에는 TM60 순서미루기가 있습니다. 지하로 돌아와 중앙의 큰 문으로 들어갑니다.
 
 **옵시디아 슬럼가 지하 1층 B구역**
@@ -1354,7 +1343,18 @@ XX7X. 다리를 건너 위로 올라가세요.
 
 - 잠깨는약
 
-아래에 있는 남성과 대화하여 문을 미리 열어둔 뒤 오른쪽으로 이동합니다.
+아래에 있는 남성과 대화하여 문을 열고, 빅토리아가 있던 자리로 돌아가 포켓스낵을 주워줍니다.
+
+<details>
+  <summary>옵시디아 슬럼가 1층 A구역 전체 지도</summary>
+  <p>
+    <img src ="/img/reborn/all-gen/reborn slum 1F.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+  </p>
+</details>
+
+( 전체 지도의 맨 왼쪽을 확인하세요. )
+
+문을 열었던 장소로 돌아와, 잠깨는약을 얻고 오른쪽에 있는 길로 들어갑니다.
 
 <img src ="/img/reborn/all-gen/reborn (2-13).png">
 
