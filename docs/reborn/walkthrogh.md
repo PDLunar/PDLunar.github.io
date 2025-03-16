@@ -3312,6 +3312,8 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 **관계 포인트**
 - 옵시디아 북구에서 페른에게 말을 걸기 (페른 +1)
 
+왼쪽의 긴 계단을 올라가 라피스 구로 들어갑니다.
+
 ## **라피스 구**
 <br>
 <img src ="/img/reborn/19.5/reborn (4-2).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
