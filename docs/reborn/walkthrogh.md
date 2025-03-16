@@ -3536,7 +3536,7 @@ Central 살롱 안에 있는 오른쪽 여성에게 나옹마를 보여주면, �
 | *꼬마돌* | 15 |
 | *디그다* | 12 |
 | *랑딸랑* | 10 |
-| **안농** | 7 |
+| *안농* | 7 |
 | *노고치* | 6 |
 
 The crystals glitter with fissures... 라는 문구가 나타납니다. // 번역본과 통일하기
@@ -3666,9 +3666,9 @@ The crystals glitter with fissures... 라는 문구가 나타납니다. // 번�
 
 옵시디아 북구 뒷골목에는 마그마파, 라피스 뒷골목에는 아쿠아파가 있습니다.
 
-<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EB%A7%88%EA%B7%B8%EB%A7%88%ED%8C%8C-2%EB%B6%80">마그마파 가입</a>
+<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EB%A7%88%EA%B7%B8%EB%A7%88%ED%8C%8C-1%EB%B6%80">마그마파 가입</a>
 
-<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EC%95%84%EC%BF%A0%EC%95%84%ED%8C%8C-2%EB%B6%80">아쿠아파 가입</a>
+<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EC%95%84%EC%BF%A0%EC%95%84%ED%8C%8C-1%EB%B6%80">아쿠아파 가입</a>
 
 ### **마그마파 (1부)**
 <br>
@@ -5152,7 +5152,7 @@ Beryl Cemetery로 가서 바위깨기를 한 뒤, 동굴로 들어갑니다. // 
 
 빛이 나지 않는다면 다른 곳에서 다른 포켓몬을 잡을 수 있습니다.
 
-지하 1층으로 돌아가 오른쪽 아래에 있는 사다리를 타고 내려갑니다.
+지하 1층으로 돌아가 용암이 빠진 곳으로 가면 오른쪽 아래에 있는 사다리를 내려갑니다.
 
 <img src ="/img/reborn/19.5/reborn (6-10).png">
 
