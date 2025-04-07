@@ -5365,7 +5365,11 @@ Beryl Cemetery로 가서 바위깨기를 한 뒤, 동굴로 들어갑니다. // 
 
 아포필해변에 도착하면 파이로스산으로 향합니다.
 
-<span class="bg-yellow-100 text-red-100">히든 루트로 향하는 분기점이 되는 중요한 배틀이므로, 산 입구에 들어가기 전에 반드시 저장해 주세요.</span>
+<span class="bg-yellow-100 text-red-100">
+히든 루트로 향하는 분기점이 되는 중요한 배틀이 있습니다.
+
+산 입구에 들어가기 전에 반드시 저장해 주세요.
+</span>
 
 <details>
   <summary>스포 주의</summary>
