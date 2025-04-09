@@ -189,6 +189,14 @@ has_children: true
 </pre>
 
 ---
+## 픽업 테이블
+<br>
+<img src ="/img/reborn/pickup table.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+---
+## 채굴 테이블
+<br>
+<img src ="/img/reborn/mining.png">
+---
 ## 야생 포켓몬 지닌물건
 <br>
 훔치기나 탐내기를 사용하면, 야생 포켓몬이 가진 아이템을 훔칠 수 있습니다.
