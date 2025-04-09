@@ -192,10 +192,12 @@ has_children: true
 ## 픽업 테이블
 <br>
 <img src ="/img/reborn/pickup table.png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+
 ---
 ## 채굴 테이블
 <br>
 <img src ="/img/reborn/mining.png">
+
 ---
 ## 야생 포켓몬 지닌물건
 <br>
