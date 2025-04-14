@@ -6196,7 +6196,7 @@ Beryl Cemetery로 가면 빅토리아가 있습니다. // 번역본과 통일하
 | 한바이트 Lv42<br>드래곤/땅 | 모래숨기 | 모래지옥 / 베어가르기<br>드래곤클로 / 구멍파기 | 119/91/70/57/61/84 |
 | 코리갑 Lv42<br>땅 | 옹골참 | 탁쳐서떨구기 / 힘껏치기<br>매그니튜드 / 겁나는얼굴 | 138/116/116/65/65/57 |
 
-<img src ="/img/reborn/19.5/reborn (8-6).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (8-6).png">
 
 중간에 화살표 방향으로 가면 나무가 사라져 샛길로 빠져나갈 수 있게 됩니다.
 
@@ -6228,7 +6228,7 @@ Captain's Log도 이곳에서 확인할 수 있습니다. // 번역본과 통일
 
 왼쪽으로 계속 진행한 후, 이번에는 아래로 내려갑니다.
 
-<img src ="/img/reborn/19.5/reborn (8-7).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (8-7).png">
 
 아래에는 아티피셜 시드, 하트비늘, 경험사탕L이 있으며, 기차 안으로 들어갈 수 있습니다.
 
@@ -6240,7 +6240,7 @@ Captain's Log도 이곳에서 확인할 수 있습니다. // 번역본과 통일
 
 중간에 사진처럼 나무와 덤불 사이로 들어갈 수 있는 공간이 있습니다.
 
-<img src ="/img/reborn/19.5/reborn (8-8).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (8-8).png">
 
 길을 따라가 숨겨진 특성캡슐을 줍고 아래로 내려갑니다.
 
