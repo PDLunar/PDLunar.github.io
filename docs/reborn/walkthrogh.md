@@ -7615,7 +7615,7 @@ Sweet Kiss의 물품이 추가가 되었습니다. // 번역본과 통일하기
 
 <img src ="/img/reborn/19.5/reborn (10-12).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
-1N을 통과해 2N으로 빠져 나오고 3N으로 들어갑니다.
+1N을 통과해 2N으로 빠져나온 뒤, 3N으로 들어갑니다.
 
 통나무가 밀려 길이 열려 있습니다. 밀려 있지 않다면, 아래로 내려가 켄타로스를 쓰러뜨립니다.
 
