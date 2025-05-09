@@ -7613,9 +7613,9 @@ Sweet Kiss의 물품이 추가가 되었습니다. // 번역본과 통일하기
 
 날뛰는 켄타로스는 플레이어를 반대쪽 미로정원 근처로 이동시키므로, 지금은 사용하지 않겠습니다.
 
+<img src ="/img/reborn/19.5/reborn (10-12).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
-
-
+1N을 통과해 2N으로 빠져 나오고 3N으로 들어갑니다.
 
 
 
