@@ -7730,7 +7730,7 @@ TM23 떨어뜨리기, 얼음의돌, 숨겨진 상처약을 줍고 동굴 밖으�
 
 <img src ="/img/reborn/19.5/reborn (10-17).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
-오른쪽으로 가서 5N으로 들어갑니다.
+켄타로스를 타고 오른쪽으로 가서 5N으로 들어갑니다.
 
 빨간 머리 여성과 유성단의 대화를 볼 수 있습니다.
 
