@@ -7867,6 +7867,8 @@ TS로 들어가 아래쪽 나무 L에서 꿀을 두 번 발라 헤라크로스�
 
 나무 K에서는 꿀을 발라 헤라크로스를 쓰러뜨려 왼쪽의 통나무를 제거합니다.
 
+<img src ="/img/reborn/19.5/reborn (10-19).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+
 왼쪽으로 가면 나무 J가 있는 쪽으로 나오며, 턱을 내려가 3S를 지나 1번도로로 나갑니다.
 
 켄타로스를 타고 다시 3S로 들어가, 맨 아래에 있는 나무 J 근처로 이동합니다.
