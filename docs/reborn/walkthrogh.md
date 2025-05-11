@@ -7843,7 +7843,7 @@ P 나무에서 쁘사이저와 헤라크로스를 각각 한 번씩 쓰러뜨려
 
 <img src ="/img/reborn/19.5/reborn (10-21).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
-- 동굴탈출로프, 보라조각, 상처약, 뚜벅초, 터레인시드<br>보라조각, 별의조각, 벌레회피스프레이, 연결의돌
+- 동굴탈출로프, 보라조각, 상처약, 뚜벅초
 
 턱을 넘어 나무 M에 꿀을 바르고 쁘사이저를 쓰러뜨린 뒤, 켄타로스에서 내립니다.
 
