@@ -8089,8 +8089,7 @@ Nature Center 맨 아래의 날뛰는 켄타로스와 상호작용해 미로정�
   </p>
 </details>
 
-
-
+이기면 Millennium Badge와 TM92 트릭룸을 받고, 레벨 상한이 65까지 올라갑니다. // 번역본과 통일하기
 
 
 
