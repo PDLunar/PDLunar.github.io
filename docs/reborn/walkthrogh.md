@@ -8143,11 +8143,15 @@ Nature Center 맨 아래의 날뛰는 켄타로스와 상호작용해 미로정�
 
 ## **7번가**
 <br>
+<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EB%A7%88%EA%B7%B8%EB%A7%88%ED%8C%8C--%EC%95%84%EC%BF%A0%EC%95%84%ED%8C%8C-%EA%B0%80%EC%9E%85">아직 마그마파나 아쿠아파에 가입하지 않았다면, 지금 가입해야 합니다.</a>
 
+<a href="https://pdlunar.github.io/docs/reborn/walkthrogh.html#%EB%9D%BC%EC%9D%B4%EB%B2%8C%EC%9D%84-%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%8B%A4">공략을 따라왔다면 이미 2부까지 진행했으니, 놓친 경우에만 다시 확인하면 됩니다.</a>
 
+아쿠아파 보스나 마그마파 두목을 만나러 갑니다.
 
+아쿠아파에 가입했다면 
 
-
+마그마파에 가입했다면
 
 
 
