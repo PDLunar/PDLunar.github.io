@@ -8524,7 +8524,7 @@ Nadira와 대화하면 **타입:널**을 잡을 수 있게 됩니다. // 번역�
 <details>
   <summary>보라색 방</summary>
     <p>
-    2303
+    0204
     </p>
 </details>
 
