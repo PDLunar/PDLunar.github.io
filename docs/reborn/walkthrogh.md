@@ -8817,17 +8817,23 @@ The crystals' light flickers dimly... 라는 문구와 // 번역본과 통일하
 
 이올리아 계곡 입구로 순간이동한 뒤 1번도로의 TS를 통해 어벤츄린 숲을 지나 탄잔산으로 갑니다.
 
+다른 방법으로 탄잔산에 들어왔다면, 사피라를 만났던 장소로 가면 됩니다.
 
+사피라를 만났던 동굴 오른쪽으로 들어가면 상호작용 가능한 초록색 수정이 있습니다.
 
+<img src ="/img/reborn/19.5/reborn (11-2).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
+길을 따라 동굴 밖으로 빠져나옵니다.
 
+고급상처약과 노말주얼을 줍고 다른 동굴로 들어갑니다.
 
+괴력을 사용해 바위를 옮기며 동굴탈출로프를 줍고, 동굴을 빠져나옵니다.
 
+바위를 옮겨 세 개의 기둥 색을 모두 빨간색으로 바꿔 숨겨진 입구를 열어줍니다.
 
+아래 사진처럼 옮겨도 되고, 자신이 편한 방법으로 기둥의 색을 전부 바꿔주면 됩니다.
 
-
-
-
+<img src ="/img/reborn/19.5/reborn (11-3).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 
 
