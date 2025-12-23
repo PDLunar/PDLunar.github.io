@@ -9082,7 +9082,7 @@ Beryl Cemetery에서 Simon을 만났으니 페리도트 구의 프렌들리숍 �
 <details>
   <summary>퍼즐 미리보기</summary>
   <p>
-    <img src="/img/reborn/프로토가 퍼즐.png">
+    <img src="/img/reborn/늑골라 퍼즐.png">
   </p>
 </details>
 
