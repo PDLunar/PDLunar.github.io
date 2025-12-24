@@ -9167,7 +9167,8 @@ Beryl Cemetery에서 Simon을 만났으니 페리도트 구의 프렌들리숍 �
     <img src="/img/reborn/노보청 퍼즐.png">
   </p>
 </details>
-<br>
+
+
 <details>
   <summary>퍼즐 힌트</summary>
     <p>
@@ -9195,7 +9196,8 @@ Beryl Cemetery에서 Simon을 만났으니 페리도트 구의 프렌들리숍 �
 3 3 0 3
     </p>
 </details>
-<br>
+
+
 <details>
   <summary>양쪽 끝에 있는 2개의 퍼즐이 틀린 경우</summary>
     <p>
@@ -9210,7 +9212,8 @@ Beryl Cemetery에서 Simon을 만났으니 페리도트 구의 프렌들리숍 �
 1 0 3 2
     </p>
 </details>
-<br>
+
+
 <details>
   <summary>중앙 2개의 퍼즐이 틀린 경우</summary>
     <p>
