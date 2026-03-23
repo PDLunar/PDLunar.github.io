@@ -9358,9 +9358,11 @@ Clown에게 수수께끼를 받아 해당하는 포켓몬을 보여주면 됩니
 |  |  | **암멍이** | 4 | **앱솔** | 2 |
 |  |  | **앱솔** | 2 |  |  |
 
+<img src ="/img/reborn/19.5/reborn (12-3).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+
 위로 올라가 터레인시드를 줍고 돌아와 왼쪽 바위를 뛰어넘어 길을 건넙니다.
 
-<img src ="/img/reborn/19.5/reborn (12-3).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
+<img src ="/img/reborn/19.5/reborn (12-4).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 중앙에는 초록 나무(수면가루)와 빨강 나무(분노가루)가 있습니다.
 
@@ -9369,8 +9371,6 @@ Clown에게 수수께끼를 받아 해당하는 포켓몬을 보여주면 됩니
 흔들리는 바위를 밟으면 가루가 쏟아집니다.
 
 가루를 이용해 굴 안에 있는 암팰리스를 재우거나 깨울 수 있습니다.
-
-<img src ="/img/reborn/19.5/reborn (12-4).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
 첫 번째 구역의 암팰리스를 굴에서 꺼내 재운 뒤, 밀어서 구멍에 넣습니다.
 
@@ -9429,17 +9429,41 @@ Clown에게 수수께끼를 받아 해당하는 포켓몬을 보여주면 됩니
 
 TM58 프리폴과 숨겨진 좋은상처약을 줍고 왼쪽으로 가서, PP에이드를 주운 후 동굴로 들어갑니다.
 
+### **아메트린산 2층 등장포켓몬**
 
+| 2층 | 확률 |
+|:-----|:----|
+| *코고미* | 20 |
+| **대굴레오** | 15 |
+| *꽁어름* | 12 |
+| *툰베어* | 12 |
+| *딜리버드* | 12 |
+| **씨레오** | 10 |
+| **프리지오** | 5 |
+| *알로라 모래두지* | 5 |
+| *알로라 고지* | 5 |
+| **눈꼬마** | 4 |
 
+| 낡은낚싯대 | 확률 |
+|:-----------|:----|
+| *형광어* | 70 |
+| *약어리* | 30 |
 
+| 좋은낚싯대 | 확률 |
+|:-----------|:----|
+| *총어* | 60 |
+| **쏘드라** | 20 |
+| *침바루* | 20 |
 
+이곳에서 더 이상 할 수 있는 것이 없으니 2번도로로 돌아갑니다.
 
+<img src ="/img/reborn/19.5/reborn (12-6).png" style="display:block; width:100%;" class="mx-auto" onclick="window.open(this.src)">
 
+가루를 채취할 수 있는 나무들이 있는 중앙으로 돌아와 이번에는 바위를 뛰어넘어 오른쪽으로 갑니다.
 
+이펙트가드 2개와 만병통치제를 줍고 계단을 내려와 다음 구역으로 갑니다.
 
-
-
-
+잠긴 문의 스위치를 눌러 지름길을 엽니다.
 
 
 
